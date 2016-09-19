@@ -1,0 +1,66 @@
+<?php
+require_once('core/init.php');
+$conn = new PDO("mysql:host=localhost;dbname=infotsav", "root", "root");
+$conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+$s="fdsdf";
+$t=md5($_POST['name'].$_POST['password'].microtime());
+$query="INSERT INTO users (name,email,password,salt,contact,school,city,avtar,emailcode) VALUES (:name, :email , :password , :salt ,:contact, :school,:city,:avtar,:code)";
+$q = $conn->prepare($query);
+$q->bindParam(':name',$_POST['name']);
+$q->bindParam(':email',$_POST['email']);
+$q->bindParam(':password',md5($_POST['password']));
+$q->bindParam(':salt',$s);
+$q->bindParam(':contact',$_POST['contact']);
+$q->bindParam(':school',$_POST['school']);
+$q->bindParam(':city',$_POST['city']);
+$q->bindParam(':avtar',$_POST['emotion']);
+$q->bindParam(':code',$t);
+$q->execute();
+
+
+$sql = "SELECT * FROM `users` WHERE `email` = :email";
+$query = $conn->prepare($sql);
+	$query->bindValue(':email', $_POST['email']);
+	$query->execute();
+	$result = $query->fetchAll(PDO::FETCH_ASSOC);
+	print_r($result);
+
+
+
+$query="INSERT INTO user_score (user_id,score) VALUES (:id, 0)";
+$q = $conn->prepare($query);
+$q->bindParam(':id',$result['id']);
+/*$q->bindParam(':email',$_POST['email']);
+$q->bindParam(':password',md5($_POST['password']));
+$q->bindParam(':salt',$s);
+$q->bindParam(':contact',$_POST['contact']);
+$q->bindParam(':school',$_POST['school']);
+$q->bindParam(':city',$_POST['city']);
+$q->bindParam(':avtar',$_POST['emotion']);
+$q->bindParam(':code',$t); */
+$q->execute();
+
+
+Session::put('home','You Have been successfully registered. Please check your email to activate your account.'); 
+?>
+<html>
+        <form method="POST" name="form2" action="http://www.aasf.in/mailer/regmail.php">
+          <input type="hidden" name="name" value="<?php echo $_POST['name']; ?>">
+          <input type="hidden" name="email" value="<?php echo $_POST['email'];?>">
+          <input type="hidden" name="emailcode" value="<?php echo $t; ?>">
+
+        </form>
+        <script>
+          document.forms[0].submit();
+        </script>
+        </html>
+
+<?php
+echo '<script>window.location="login.php";</script>';
+?>
+
+
+
+
+
+

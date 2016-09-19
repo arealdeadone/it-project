@@ -1,0 +1,7 @@
+RewriteRule /?\.htaccess$ - [F,L]
+RewriteRule ^/?json\.php$ - [F,L]
+
+<Files "json.php">
+	Order Allow,Deny
+	Deny from all
+</Files>
