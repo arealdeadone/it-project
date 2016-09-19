@@ -106,7 +106,7 @@ for($i=8;$i<13;$i++)
            						 $xml = file_get_contents('events.xml');
             					 $EVENTLIST = new SimpleXMLElement($xml);?>
 					<article class="feature left" style="box-shadow: 5px 5px 3px #888888;background-color: rgba(0,0,0,0.9); ">
-						<span class="image"><img  src="img/<?php echo $EVENTLIST->EVENT[$i]->IMAGE; ?>"  alt="" /></span>
+						<span class="image"><img style="margin-left: 15%;" src="img/<?php echo $EVENTLIST->EVENT[$i]->IMAGE; ?>"  alt="" /></span>
 						<div class="content" >
 							<center><h2 style="color:white;font-weight: ;font-size:2.2vw;font-weight:500;font-family: inherit;margin-bottom: 5%;"><span style="border: solid;padding: 2%;font-family: induction;">
             					<?php echo $EVENTLIST->EVENT[$i]->TITLE;?></span></h2></center>
