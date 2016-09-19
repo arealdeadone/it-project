@@ -95,10 +95,10 @@
 		<IMAGE>techathlon.jpg</IMAGE>
 		<DESCRIPTION>
 			In the era of increasing efficiency, multitask and read reach your destined glory. For all the code maniacs out there who are ready for a coding extravaganza, Infotsav, this year is conducting Techathlon. From an Aptitude test in your own college, through an online coding round, to various onsite events at ABV-IIITM, Techathlon, at every stage, will put your knowledge, skills as well as logical ability to test. It is a 4-event technical extravaganza consisting of:-
-			&lt;/br&gt;Algorithm Writing
-			&lt;/br&gt;Bugspot
-			&lt;/br&gt;CodeRush
-			&lt;/br&gt;Code Stumble
+			&lt;/br&gt; &lt;a href = "readmore.php?id=5"&gt;Algorithm Writing &lt;a href = "#"&gt;
+			&lt;/br&gt; &lt;a href = "readmore.php?id=0"&gt;Bugspot &lt;a href = "#"&gt;
+			&lt;/br&gt; &lt;a href = "readmore.php?id=1"&gt;CodeRush &lt;a href = "#"&gt;
+			&lt;/br&gt; &lt;a href = "readmore.php?id=7"&gt;Code Stumble &lt;a href = "#"&gt;
 		</DESCRIPTION>
 		<RULES>
 			&lt;/br&gt;1. TECHATHLON consists of 4 open-to-all events.

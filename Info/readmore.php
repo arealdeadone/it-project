@@ -35,7 +35,13 @@ $i=(int)$_GET['id'];
     <div style="background: url(img/<?php echo $EVENTLIST->EVENT[$i]->BACKGROUND;?>);background-repeat: repeat;background-size: cover;width: 100%;height: 100%;position: fixed;top: 0;background-attachment: scroll;overflow-x: hidden;overflow-y: auto;">
 
     	<div style="padding-left: 6%;">
+      <?php if ($i<=8) { ?>
       <span onclick="span()" class="glyphicon glyphicon-remove" style="color: white;font-size: 250%;font-weight: 500;margin-left: 94%;margin-top: 2%; cursor:pointer;"></span>
+      <?php }
+      else
+        {?>
+           <a href = "technicalnew.php"><span  class="glyphicon glyphicon-remove" style="color: white;font-size: 250%;font-weight: 500;margin-left: 94%;margin-top: 2%; cursor:pointer;"></span></a>
+           <?php } ?>
     	<h2 style="font-family: farray;margin-bottom: 5%;font-size:400%;color: white;"><center>
     	<?php
           //$xml = file_get_contents('events.xml');
