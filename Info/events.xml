@@ -95,22 +95,22 @@
 		<IMAGE>techathlon.jpg</IMAGE>
 		<DESCRIPTION>
 			In the era of increasing efficiency, multitask and read reach your destined glory. For all the code maniacs out there who are ready for a coding extravaganza, Infotsav, this year is conducting Techathlon. From an Aptitude test in your own college, through an online coding round, to various onsite events at ABV-IIITM, Techathlon, at every stage, will put your knowledge, skills as well as logical ability to test. It is a 4-event technical extravaganza consisting of:-
-			&lt;/br&gt; &lt;a href = "readmore.php?id=5"&gt;Algorithm Writing &lt;a href = "#"&gt;
-			&lt;/br&gt; &lt;a href = "readmore.php?id=0"&gt;Bugspot &lt;a href = "#"&gt;
-			&lt;/br&gt; &lt;a href = "readmore.php?id=1"&gt;CodeRush &lt;a href = "#"&gt;
-			&lt;/br&gt; &lt;a href = "readmore.php?id=7"&gt;Code Stumble &lt;a href = "#"&gt;
+			&lt;/br&gt; &lt;a href = "readmore.php?id=5"&gt;Algorithm Writing &lt;/a &gt;
+			&lt;/br&gt; &lt;a href = "readmore.php?id=0"&gt;Bugspot &lt;/a &gt;
+			&lt;/br&gt; &lt;a href = "readmore.php?id=1"&gt;CodeRush &lt;/a &gt;
+			&lt;/br&gt; &lt;a href = "readmore.php?id=7"&gt;Code Stumble &lt;/a&gt;
 		</DESCRIPTION>
 		<RULES>
 			&lt;/br&gt;1. TECHATHLON consists of 4 open-to-all events.
 			&lt;/br&gt;2. The participants should be the students of any IIIT.
 			
-			&lt;/br&gt;3. Only the first 4 teams from each Institute will qualify for the second stage.
 			
 			
-			&lt;/br&gt;4. Every member needs to participate in at least one event.
-			&lt;/br&gt;5.  No member can be in two TECHATHLON team.
-			&lt;/br&gt;6.  Ties will be dealt with the scores of Code Rush.
-			&lt;/br&gt;7.  The score of each event will be normalized. The contribution of each event     will be disclosed two weeks before the fest.
+			
+			&lt;/br&gt;3. Every member needs to participate in at least one event.
+			&lt;/br&gt;4.  No member can be in two TECHATHLON team.
+			&lt;/br&gt;5.  Ties will be dealt with the scores of Code Rush.
+			&lt;/br&gt;6.  The score of each event will be normalized. The contribution of each event     will be disclosed two weeks before the fest.
 &lt;/br&gt;8. Disqualification from any event due to use of unfair means can lead to disqualification from whole TECHATHLON series.
 		</RULES>
 
