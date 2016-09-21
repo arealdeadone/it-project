@@ -1,6 +1,6 @@
 <?php
 require_once('core/init.php');
-$conn = new PDO("mysql:host=localhost;dbname=infotsav", "root", "root");
+$conn = new PDO("mysql:host=localhost;dbname=infotsav", "root", "Iiahtth");
 $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 $s="fdsdf";
 $t=md5($_POST['name'].$_POST['password'].microtime());
