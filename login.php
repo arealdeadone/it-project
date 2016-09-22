@@ -307,8 +307,8 @@ if(Input::exists())
           <input type="hidden" name="token" value="<?php echo escape(Tokens::generate()); ?>" />
         </form>
         <div class="social-auth-links text-center">
-          <p>- OR -</p>
-          <a onclick="checkLoginState();" class="btn btn-block btn-social btn-facebook btn-flat"><i class="fa fa-facebook"></i> Sign in using Facebook</a>
+         <!--  <p>- OR -</p>
+          <a onclick="checkLoginState();" class="btn btn-block btn-social btn-facebook btn-flat"><i class="fa fa-facebook"></i> Sign in using Facebook</a> -->
         </div>
         <a href="register.php" class="text-center">Not Registered Yet? Register Here</a>
 
