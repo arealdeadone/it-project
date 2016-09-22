@@ -1,8 +1,8 @@
-console.log = function () { return "Jaa Maa Chuda!"; };
+console.log = function () { return "!"; };
 
 var Game = function() {
 	this.player = $("#player");
-	this.topPos = 0;
+	this.topPos = 20;
 	this.leftPos = $(window).width() / 2 - this.player.width() / 2;
 	this.init();
 };

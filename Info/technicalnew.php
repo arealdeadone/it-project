@@ -110,7 +110,11 @@ for($i=0;$i<8;$i++)
 						<div class="content" >
 							<center><h2 style="color:white;font-weight: ;font-size:2.2vw;font-weight:500;font-family: inherit;margin-bottom: 5%;"><span style="border: solid;padding: 2%;font-family: induction;">
             					<?php echo $EVENTLIST->EVENT[$i]->TITLE;?></span></h2></center>
-							<p style="font-size:1.75vw;line-height: 1.2;font-family: newbold;color: rgba(255,255,255,0.9);"><?php echo $EVENTLIST->EVENT[$i]->DESCRIPTION; ?></p>
+							<p style="font-size:1.75vw;line-height: 1.2;font-family: newbold;color: rgba(255,255,255,0.9);"><?php $s = $EVENTLIST->EVENT[$i]->DESCRIPTION; 
+							if(strlen($s)<=700)
+								echo $s;
+							else 
+								echo substr($s,0,700).'...';?></p>
 							<ul class="actions">
 								<li>
 										<a href="readmore.php?id=<?php echo $i; ?>"> <button class="Read-more"  role="button" style="color: white;border-style: solid;border-color: rgb(0,82,204);border-width:1px;margin-top:10px;
@@ -193,7 +197,11 @@ else
            						 $xml = file_get_contents('events.xml');
             					 $EVENTLIST = new SimpleXMLElement($xml);
             					 echo $EVENTLIST->EVENT[$i]->TITLE;?></span></h2></center>
-							<p style="font-size:1.75vw;line-height: 1.2;font-family: newbold;color: rgba(255,255,255,0.9);padding-bottom:4%"><?php echo $EVENTLIST->EVENT[$i]->DESCRIPTION; ?></p>
+							<p style="font-size:1.75vw;line-height: 1.2;font-family: newbold;color: rgba(255,255,255,0.9);padding-bottom:4%"><?php $s = $EVENTLIST->EVENT[$i]->DESCRIPTION; 
+							if(strlen($s)<=700)
+								echo $s;
+							else 
+								echo substr($s,0,700).'...';?></p>
 							<ul class="actions">
 								<li>
 										 <a href="readmore.php?id=<?php echo $i; ?>"> <button class="Read-more"  role="button" style="color: white;border-style: solid;border-color: rgb(0,82,204);
