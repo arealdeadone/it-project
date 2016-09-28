@@ -77,7 +77,7 @@ ul,p,dl,hr,h1,h2,h3,h4,h5,h6,pre,table,address,fieldset, blockquote {
 	content: ".";
 	display: block;
 	clear: both;
-	visibility: hidden;
+	visibility: visible;
 	line-height: 0;
 	height: 0;
 }
@@ -95,7 +95,7 @@ body {
 
 nav {
 	position: fixed;
-	top: -85px;
+	top: 0px;
 	height: 55px;
 	left: 50%;
 	width: 1154px;

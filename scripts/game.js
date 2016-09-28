@@ -2,7 +2,7 @@ console.log = function () { return "!"; };
 
 var Game = function() {
 	this.player = $("#player");
-	this.topPos = 20;
+	this.topPos = 100;
 	this.leftPos = $(window).width() / 2 - this.player.width() / 2;
 	this.init();
 };
@@ -231,6 +231,7 @@ Game.prototype = {
 	},
 
 	showNotificationsBar: function(notification) {
+		console.log("this");
 		var me = this;		
 		$("#notifications").css('bottom', 0);
 		if(!$("#notifications").find('.inner').attr('id') || $("#notifications").find('.inner').text() != notification.text){
@@ -245,17 +246,17 @@ Game.prototype = {
 	},
 
 	revealMenu: function(y) {
-		if(y >= 200) {
+		if(y >= 20) {
 			$('nav').addClass('show');
 			if(y >= 350 && y < 355) {
 				this.showNotificationsBar(notifications[1]);
 			}
 			else if(y > 580 && $("#notifications").find('.inner').text() == notifications[1].text) {
-				this.hideNotificationBar();
+			//	this.hideNotificationBar();
 			}
 		}
 		else {
-			$('nav').removeClass('show');	
+			//$('nav').removeClass('show');	
 		}
 	},
 

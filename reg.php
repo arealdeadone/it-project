@@ -1,9 +1,24 @@
 <?php
 require_once('core/init.php');
-$conn = new PDO("mysql:host=localhost;dbname=infotsav", "root", "Iiahtth");
+$conn = new PDO("mysql:host=localhost;dbname=infotsav", "root", "root");
 $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 $s="fdsdf";
 $t=md5($_POST['name'].$_POST['password'].microtime());
+$query = "SELECT * FROM users WHERE email = :email";
+$q = $conn->prepare($query);
+$q->bindParam(':email',$_POST['email']);
+$q->execute();
+$q->setFetchMode(PDO::FETCH_ASSOC);
+$row=$q->fetch();
+if(isset($row['name']))
+ {
+	Session::put('home','Sorry this email id is already in use.'); 
+	echo '<script>window.location="login.php";</script>';	
+
+ }
+
+else
+{
 $query="INSERT INTO users (name,email,password,salt,contact,school,city,avtar,emailcode) VALUES (:name, :email , :password , :salt ,:contact, :school,:city,:avtar,:code)";
 $q = $conn->prepare($query);
 $q->bindParam(':name',$_POST['name']);
@@ -57,6 +72,7 @@ Session::put('home','You Have been successfully registered. Please check your em
 
 <?php
 echo '<script>window.location="login.php";</script>';
+}
 ?>
 
 

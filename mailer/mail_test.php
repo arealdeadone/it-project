@@ -1,20 +1,47 @@
 <?php
-require("class.PHPMailer.php");
+require("class.phpmailer.php");
 
 
-    $s="<html><head><title>Title</title></head><body><div>asfg</div></body></html>";
+    $s="Ola!
+
+Infotsav, the techno-managerial fest of ABV-IIITM, Gwalior and is often alluded as Central India’s largest. It is back this year with even greater pomp and fervor.
+<br><br>
+Since its inception in 2002, Infotsav has seen ever growing participation, always nurturing its aim of providing a competitive platform for innovative young engineers and entrepreneurs, promoting excellence in technical thinking and strategic management.
+<br><br>
+It's been a legacy that we, Team Infotsav have been carrying forward every year. Each year, we have evolved, and became better than the earlier set benchmarks.
+<br><br>
+We are back with the same intent. We intend to make Infotsav`16 the most exuberant celebration of the developments on the Techno-managerial front. <br>
+<br>
+To spread the word, we are providing golden opportunity to students throughout the nation to be a part of Infotsav and represent it in their Colleges. Start applying for the post of campus ambassador here:
+ <br><br>
+www.infotsav.com/ca
+ <br><br>
+
+Eligibility criteria:
+ <br><br>
+    Sincere and responsible candidates.
+    No restriction based on year of study.
+ <br><br>
+
+Regards,
+ <br><br>
+Team Infotsav`16
+ <br><br>
+
+For more updates: Website- www.infotsav.com";
 
     $mail = new PHPMailer();
 
     $mail->IsSMTP();                                      // set mailer to use SMTP
-    $mail->Host = "ssl://smtp.gmail.com";  // specify main and backup server
-    $mail->Port = 465;
-    $mail->SMTPDebug = 3;
-    $mail->SMTPAuth = true;     // turn on SMTP authentication
-    $mail->Username = "innovationthroughwaste@gmail.com";  // SMTP username
-    $mail->Password = "eventphobias"; // SMTP password
+    $mail->SMTPSecure = 'ssl'; 
+   $mail->Host = "smtp.yandex.com";  // specify main and backup server
+   $mail->Port = 465;
+   $mail->SMTPDebug = 3;
+   $mail->SMTPAuth = true;     // turn on SMTP authentication
+   $mail->Username = 'contact@infotsav.com';  // SMTP username
+   $mail->Password = "123456789"; // SMTP password
 
-    $mail->From = "innovationthroughwaste@gmail.com";
+    $mail->From = "contact@infotsav.com";
     $mail->FromName = "Infotsav'16";
     $mail->AddAddress("unishubh1@gmail.com", "Query");
 //$mail->AddAddress("ellen@example.com");                  // name is optional
@@ -23,29 +50,10 @@ require("class.PHPMailer.php");
     $mail->WordWrap = 50;                                 // set word wrap to 50 characters
 //$mail->AddAttachment("/var/tmp/file.tar.gz");         // add attachments
 //$mail->AddAttachment("/tmp/image.jpg", "new.jpg");    // optional name
-    $mail->IsHTML(true);                                  // set email format to HTML
+    $mail->IsHTML(false);                                  // set email format to HTML
 
-    $mail->Subject = "You have a Query!";
-    $mail->Body    = "<html>
-<head>
-    <meta charset=\"UTF-8\">
-    <title>Title</title>
-</head>
-<body>
-<div style='background-color: red'>
-    <table>
-        <tr>
-            <td>Shubh</td>
-            <td>Shukla</td>
-        </tr>
-        <tr>
-        <td>Nice</td>
-        <td>Nice</td>
-</tr>
-    </table>
-</div>
-</body>
-</html>";
+    $mail->Subject = "Nomination for Campus Ambassador Infotsav'16 IIIT, Gwalior";
+    $mail->Body    = $s;
     $mail->AltBody = "This is the body in plain text for non-HTML mail clients";
 
     if(!$mail->Send())

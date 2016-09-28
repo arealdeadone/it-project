@@ -521,7 +521,7 @@ console.log = function () {
 		},
 
 		revealMenu: function(y) {
-			if(y >= 200) {
+			if(y >= 20) {
 				$('nav').addClass('show');
 				if(y >= 350 && y < 355) {
 					this.showNotificationsBar(notifications[1]);

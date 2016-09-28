@@ -3,7 +3,6 @@
 	$user = new User();
 	if($user->isLoggedIn()){
 		if(Input::exists('get')&&isset($_GET['updatescore'])){
-
 			$x = Input::get('px');
 			$y = Input::get('py');
 			$db = DB::getInstance();
@@ -200,7 +199,7 @@
 		<ul class="clearfix">
 			<li><a class="current" href="#startCave">Home</a></li>
 			<li><a href="#aboutHouse">Events</a></li>
-			<li><a href="#servicesHouse">Worshops</a></li>
+			<li><a href="#servicesHouse">Workshops</a></li>
 			<li><a href="#portfolioHouse">Gallery</a></li>
 			<li><a href="#sponsorsHouse">Sponsors</a></li>
 			<li><a href="#techHouse">Contact Us</a></li>
@@ -473,7 +472,8 @@
 				<div class="inner sponsors clearfix">
 					<center><h2>PREVIOUS SPONSORS</h2></center>
 					<div>
-						<center><img src="images/sponsors.new.jpg" width="900px" height="900px" class="sponsorPic"></center>
+						<center><!-- <img src="images/sponsors.new.jpg" width="900px" height="900px" class="sponsorPic"> -->
+						COMING SOON...</center>
 					</div>
 				</div>
 			</div>
@@ -495,12 +495,14 @@
                     <center>For any queries regarding INFOTSAV 2016, contact us at:-<br><br></center>
 						<center>
                             <form method="post" class="contactForm" action="http://www.aasf.in/mailer/mailer.php">
-                                Name : &nbsp;&nbsp;<input type="text" name="conname"></input><br/>
-                                E-mail : &nbsp;&nbsp;<input type="email" name="conemail"></input><br/>
-                                Contact : <input type="text" name="feedcontact"></input><br/><br/>
-                                Queries: <textarea name="queries" rows="6" cols="40" ></textarea>
-                                <center><button style="height:30px;width: 90px;" class="btn btn-success" name="submit" type="submit">Submit</button></center>
-                            </form>
+                                Name : &nbsp;&nbsp;<input type="text" name="conname"><br/>
+                                E-mail : &nbsp;&nbsp;<input type="email" name="conemail"><br/>
+                                Contact:&nbsp;&nbsp;<input type="text" name="feedcontact"><br/><br/>
+                                Queries: <textarea name="queries" rows="6" cols="40" ></textarea><br><br>
+								<center><button style="height:30px;width: 90px;" class="btn btn-success" name="submit" type="submit">Submit</button></center>
+								<br>
+                            	<center><a href="contacts/newcontacts.html" target="_blank"><strong>OUR TEAM</a></center>
+							</form>
 						</center>
                 </section>
             </div>
