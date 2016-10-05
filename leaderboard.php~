@@ -16,19 +16,22 @@ $db = DB::getInstance();
 $res = $db->query("SELECT `score`,`name`,`school`,`avtar`,`user_id` FROM `user_score` INNER JOIN `users` ON `user_score`.`user_id`=`users`.`id` ORDER BY `score` DESC",array());
 $rows = $res->results();
 
-print_r($rows);
-
 if(isset($_GET['api']))
 {
     header('Content-Type: application/json');
     $needed = "";
     foreach($rows as $index => $row){
-        if($row->user_id == $user->data()->id){
+       // if($row->user_id == $user->data()->id){
+        if(1){
+	 //$needed= 1;
             $needed = array('pos' => $index+1, 'score' => $row->score);
+	   // $needed = "Shubh";
             break;
         }
     }
     echo json_encode($needed);
+//	$needed= 'Shukla';
+//	echo $needed;
     die();
 }
 ?>
@@ -106,7 +109,8 @@ if(isset($_GET['api']))
                     </tr>
                     <?php
                     foreach($rows as $pos => $row){
-                        if($row->active == '1')
+                        //if($row->active == '1')
+			if(1)
                         {
                             if($row->user_id === $user->data()->id)
                             {

@@ -23,7 +23,7 @@ if(isset($_GET['api']))
     foreach($rows as $index => $row){
        // if($row->user_id == $user->data()->id){
         if(1){
-	 $needed= 1;
+	 //$needed= 1;
             $needed = array('pos' => $index+1, 'score' => $row->score);
 	   // $needed = "Shubh";
             break;

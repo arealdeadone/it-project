@@ -3,7 +3,7 @@ require("class.phpmailer.php");
 $conn = new PDO("mysql:host=localhost;dbname=infotsav_contacts", "root", "root");
 $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-$sql = "SELECT * FROM `mailers` WHERE 1 LIMIT 500";
+$sql = "SELECT * FROM `mailers` WHERE 1 LIMIT 501,500";
 $query = $conn->prepare($sql);
 $query->execute();
 
@@ -12,7 +12,7 @@ $z=0;
 $s=array('contact@infotsav.com','shubhankar@infotsav.com','shubh@infotsav.com','marketing@infotsav.com');
    while(isset($result['email'])) 
    {
-      $i=rand(0, 5);
+      $i=rand(0, 4);
     //  echo "1<br>";
       $z++;
        if($result['email'] != '')
