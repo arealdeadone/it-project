@@ -1,7 +1,7 @@
 <?php 
 $i=(int)$_GET['id'];
 $jk = $i; 
-$db = new PDO('mysql:host=localhost;dbname=infotsav','root','root');
+$db = new PDO('mysql:host=localhost;dbname=infotsav','root','');
 $s4 = "SELECT * FROM eventdetails WHERE id= ?";
 $qu = $db->prepare($s4);
 $qu->bindParam(1,$jk);
@@ -79,46 +79,53 @@ $row = $qu->fetch(PDO::FETCH_ASSOC);
         <div style="background-color: white;padding: 8%;padding-top: 3%;">
         <center><h2 style="padding-bottom: 2%;font-weight: bold">Register here</h2></center>
 
-          <form method="post" action="" class="form-horizontal" id="form" style="margin-top:30px;margin-left:20%;font-size: 120%;font-family: test;">
+          <form method="post" action="../regevents.php" class="form-horizontal" id="form" style="margin-top:30px;margin-left:20%;font-size: 120%;font-family: test;">
             <div class="form-group">
-              <label for="name" class="col-sm-2 control-label">Name</label>
+              <label for="name" class="col-sm-2 control-label">Team Name</label>
               <div class="col-xs-8">
-                <input type="text" class="form-control" id="name" placeholder="Enter your name" required="required">
-              </div>
-              <div class="form-group">
-              <label for="memes" class="col-sm-2 control-label">Number of Team Members</label>
-              <div class="col-xs-8">
-                <select class="form-control" id="memes" required="required">
-                <?php
-                  for($j=$row['mimmembers']; $j<=$row['maxmembers']; $j++)
-                    echo "<option value='{$j}'>{$j}</option>";
-                ?>
-                </select>
+                <input type="text" class="form-control" id="name" name="tname" placeholder="Enter name" required="required">
               </div>
             </div>
             <div class="form-group">
-              <label for="inputRollNo" class="col-sm-2 control-label">Roll No</label>
+              <label for="name" class="col-sm-2 control-label">Member 1 Email</label>
               <div class="col-xs-8">
-                <input type="text" class="form-control" id="inputRollNo" placeholder="Roll No" required="required">
+                <input type="email" class="form-control" id="name" name="1" placeholder="Enter email" required="required">
               </div>
             </div>
+            <?php
+              for($j=1; $j<$row['maxmembers']; $j++){
+            ?>
             <div class="form-group">
-              <label for="inputPassword" class="col-sm-2 control-label">Password</label>
+              <label for="name" class="col-sm-2 control-label">Member <?php echo $j+1; ?> Email </label>
               <div class="col-xs-8">
-                <input type="password" class="form-control" id="inputPassword" placeholder="Password">
+                <input type="email" class="form-control" id="name" name="<?php echo $j+1; ?>" placeholder="Enter email" >
               </div>
             </div>
-            <div class="form-group">
-              <label for="confirmPassword" class="col-sm-2 control-label">Confirm Password</label>
-              <div class="col-xs-8">
-                <input type="password" class="form-control" id="confirmPassword" placeholder="Confirm Password"><span id="pass"></span>
+            <?php } ?>
+            <input type="hidden" value="<?php echo $i; ?>" name="eid" >
+<!--            <div class="form-group">-->
+<!--              <label for="inputRollNo" class="col-sm-2 control-label">Roll No</label>-->
+<!--              <div class="col-xs-8">-->
+<!--                <input type="text" class="form-control" id="inputRollNo" placeholder="Roll No" required="required">-->
+<!--              </div>-->
+<!--            </div>-->
+<!--            <div class="form-group">-->
+<!--              <label for="inputPassword" class="col-sm-2 control-label">Password</label>-->
+<!--              <div class="col-xs-8">-->
+<!--                <input type="password" class="form-control" id="inputPassword" placeholder="Password">-->
+<!--              </div>-->
+<!--            </div>-->
+<!--            <div class="form-group">-->
+<!--              <label for="confirmPassword" class="col-sm-2 control-label">Confirm Password</label>-->
+<!--              <div class="col-xs-8">-->
+<!--                <input type="password" class="form-control" id="confirmPassword" placeholder="Confirm Password"><span id="pass"></span>-->
+<!--              </div>-->
+<!--            </div>-->
+              <div class="form-group" style="margin-top:40px;margin-left:65px;">
+                <div style="padding-left: 20%;">
+                  <button type="submit" class="btn btn-primary" id="button" >Register</button>
+                </div>
               </div>
-            </div>
-            <div class="form-group" style="margin-top:40px;margin-left:65px;">
-              <div style="padding-left: 20%;">
-                <button type="submit" class="btn btn-primary" id="button" >Register</button>
-              </div>
-            </div>
           </form>
         </div>
       </div>

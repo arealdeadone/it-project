@@ -203,7 +203,7 @@
 			<li><a href="#portfolioHouse">Gallery</a></li>
 			<li><a href="#sponsorsHouse">Sponsors</a></li>
 			<li><a href="#techHouse">Contact Us</a></li>
-			<li><a href="#abinfotsavHouse">About Us</a></li>
+			<li><a href="#abinfotsavHouse">Accomodation</a></li>
 			<?php
 				if($user->isLoggedIn())
 				{
@@ -508,7 +508,7 @@
             </div>
 			</div>
 		</div>
-		<div id="techSign" class="sign"><span>Contact Us</span><</div>
+		<div id="techSign" class="sign"><span>Contact Us</span></div>
 		<div id="techHole" class="hole"></div>
 
 		<!-- Stop station 6 -->
@@ -518,23 +518,40 @@
 			<div class="door"></div>
 			<div class="lightbox">
 				<div class="inner abinfotsav clearfix">
-					<h2><center><pre>About Infotsav'16</pre></center></h2>
+					<h2><center><pre>Accomodation & Fooding</pre></center></h2>
 					<section>
 						<ul style="font-family: newbold;font-size:150%;">
 							<li style="font-family: newbold;">
-								With vivid fests' jubilations hovering around every college, Infotsav is unique in its
-								kind as it encourages knowledge with fun. It is an unprecedented fest which focuses on
-								enhancing technical skill development and raging towards bang-on entrepreneurship.
-								An amalgamation	of <b>Technical, Managerial, Online Simulation and Quizzing Events</b>,
-								<em>Infotsav is back to challenge innovative minds.</em>
+								<b>Accommodation</b>
+								<ul>
+								<li>Hostel: Rs. 200 for 3 days </li>
+								<li>International Visitors Hostel: Rs. 250 per day for 2 person + Rs. 100 per day per extra person *</li>
+								<li>MDP: Rs. 750 per day for two person + Rs. 250 per day per extra person*</li>
+								</ul>
 							</li>
 
 
 							<li style="font-family: newbold;">
-							 	A series of Challenging and exciting Technical events will be held including
-								<b>Programming Contest, Software development, App Development</b> contests which will have a new flavour.
-								Several other skill based events such as <b>Web Development, Code Rush and BugSpot</b> are also a great snack
-								for code lovers. The Fest is a perfect concoction of technical and non-technical events.
+							 	<b>Fooding:</b>
+								<ul>
+								<li>Rs. 100 per person per day</li>
+								<li>Rs. 200 per person per day (only lunch and dinner)</li>
+								</ul>
+							</li>
+							<li style="font-family: newbold;">
+							 	<b>Security Charges: </b>
+								<ul>
+								<li>For hostel and visitor hostel: Rs. 100</li>
+								<li>For MDP : Rs. 300 </li>
+								</ul>
+							</li>
+							<li style="font-family: newbold;">
+							 	<b> Facilities included: </b>
+								<ul>
+								<li>Free wifi facilities</li>
+								<li>Free transportation</li>
+								<li>Free pass for the DJ Night</li>
+								</ul>
 							</li>
 
 						</ul>

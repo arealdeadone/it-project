@@ -1,4 +1,4 @@
-<?php
+    <?php
 /**
  * Created by PhpStorm.
  * User: ARVIND
@@ -21,8 +21,7 @@ if(isset($_GET['api']))
     header('Content-Type: application/json');
     $needed = "";
     foreach($rows as $index => $row){
-       // if($row->user_id == $user->data()->id){
-        if(1){
+       if($row->user_id == $user->data()->id){
 	 //$needed= 1;
             $needed = array('pos' => $index+1, 'score' => $row->score);
 	   // $needed = "Shubh";

@@ -1,6 +1,6 @@
 <?php 
 $i=(int)$_GET['id'];
-$db = new PDO('mysql:host=localhost;dbname=infotsav','root','root');
+$db = new PDO('mysql:host=localhost;dbname=infotsav','root','');
 $qu = $db->prepare('SELECT * FROM `eventdetails` WHERE `id`= :id');
 $qu->bindParam(':id',$i);
 $qu->execute();
@@ -83,17 +83,18 @@ $row = $qu->fetch(PDO::FETCH_ASSOC);
 							<div class="col-xs-8">
 								<input type="text" class="form-control" id="name" placeholder="Enter your name" required="required">
 							</div>
-              <div class="form-group">
-              <label for="memes" class="col-sm-2 control-label">Number of Team Members</label>
-              <div class="col-xs-8">
-                <select class="form-control" id="memes" required="required">
-                <?php
-                  for($j=$row['mimmembers']; $j<=$row['maxmembers']; $j++)
-                    echo "<option value='{$j}'>{$j}</option>";
-                ?>
-                </select>
-              </div>
-						</div>
+                        </div>
+                        <div class="form-group">
+                          <label for="memes" class="col-sm-2 control-label">Number of Team Members</label>
+                          <div class="col-xs-8">
+                            <select class="form-control" id="memes" required="required">
+                            <?php
+                              for($j=$row['mimmembers']; $j<=$row['maxmembers']; $j++)
+                                echo "<option value='{$j}'>{$j}</option>";
+                            ?>
+                            </select>
+                          </div>
+                         </div>
 						<div class="form-group">
 							<label for="inputRollNo" class="col-sm-2 control-label">Roll No</label>
 							<div class="col-xs-8">
