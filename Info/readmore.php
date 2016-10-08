@@ -31,7 +31,32 @@ $row = $qu->fetch(PDO::FETCH_ASSOC);
   src:url(college.otf);
 }
       </style>
-      <script >
+    <script>
+//      function showResult(str, id) {
+//        if (str.length<=3) {
+//          document.getElementById(id).innerHTML="";
+//          document.getElementById(id).style.border="0px";
+//          return;
+//        }
+//        if (window.XMLHttpRequest) {
+//          xmlhttp=new XMLHttpRequest();
+//        } else {
+//          xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+//        }
+//        console.log(str);
+//        if(xmlhttp.readyState == 0 || xmlhttp.readyState == 4)
+//        {
+//          str = encodeURIComponent(str)
+//          xmlhttp.open("GET","livesearch.php?search="+str,true);
+//          xmlhttp.onreadystatechange=function() {
+//            if (this.readyState==4 && this.status==200) {
+//              document.getElementById(id).innerHTML=this.responseText;
+//              document.getElementById(id).style.border="1px solid #A5ACB2";
+//            }
+//          }
+//          xmlhttp.send();
+//        }
+//      }
         function span()
             {window.history.go(-1);
       }
@@ -98,7 +123,8 @@ $row = $qu->fetch(PDO::FETCH_ASSOC);
             <div class="form-group">
               <label for="name" class="col-sm-2 control-label">Member <?php echo $j+1; ?> Email </label>
               <div class="col-xs-8">
-                <input type="email" class="form-control" id="name" name="<?php echo $j+1; ?>" placeholder="Enter email" >
+                <input type="email" class="form-control" id="name" name="<?php echo $j+1; ?>" placeholder="Enter email" onkeyup="//showResult(this.value, 'livesearch_<?php echo $j+1; ?>')">
+                <div id="<?php echo 'livesearch_'.($j+1); ?>" onclick=""></div>
               </div>
             </div>
             <?php } ?>

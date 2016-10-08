@@ -13,7 +13,7 @@ if(!$user->isLoggedIn())
     Redirect::to('index.php');
 
 $db = DB::getInstance();
-$res = $db->query("SELECT `score`,`name`,`school`,`avtar`,`user_id` FROM `user_score` INNER JOIN `users` ON `user_score`.`user_id`=`users`.`id` ORDER BY `score` DESC",array());
+$res = $db->query("SELECT `score`,`name`,`school`,`avtar`,`user_id` FROM `user_score` INNER JOIN `users` ON `user_score`.`user_id`=`users`.`id` WHERE `users`.`active`=1 ORDER BY `score` DESC LIMIT 20",array());
 $rows = $res->results();
 
 if(isset($_GET['api']))
