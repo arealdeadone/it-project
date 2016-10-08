@@ -413,37 +413,38 @@
 				<div class="inner services">
 
 					<h2 style="text-align: center;">...Workshops...</h2>
-						<div><br><br><center style="font-size:150%;">Coming Soon....</center>
-							<!-- <section class="left" style="font-family: newbold;font-size:150%">
+						<div><!-- <br><br><center style="font-size:150%;">Coming Soon....</center> -->
+							<section class="left" style="font-family: newbold;font-size:150%">
 								
->>>>>>> master
-								<h4 class="">Cyber Hacking</h4>
+
+								<h4 class="">Bluetooth Robotics</h4>
 								<div class="">
-								Cyberx Securities offers Workshop-cum-Championship under the aegis of Infotsav'15.It will be a two days workshop covering as many as possible topics like Cyber Securtiy, Cryptography, Website hacking. Free tool kit will be given to all the participants along with a certificate from Cyberx Securities and will provide further assistance in career opportunities. Top 3 winners of the workshop will get Gift Vouchers. Registration fee is Rs. 900/-
-								<a href="#">Read more</a>
+								Bluetooth Robotics Workshop mainly focuses on the students eager to learn Robotics from Basic. HC-05 / HC-06 based Bluetooth Controlled Robot works in heeding with the commands sent from Android based Smart Phone using a Developed Android Application and Bluetooth Technology. This workshop helps participants to understand the designing concepts and use of microcontrollers, serial communication and microcontroller programming in Embedded 'C' language.
+								The duration of this workshop will be two consecutive days, with eight hours session each day in a total of sixteen hours, properly divided into theory and hand on practical sessions. At the end of this workshop, a competition will be organized among the participating students where each participating student will get Certificate of Participation and the Winners will get Certificate of Merit <br>Registration fee is Rs. 1000/-
+								<!-- <a href="#">Read more</a> -->
 								</div>
 								<br/><br/>
-								<h4 class="">Game Development</h4>
+								<h4 class="">Network & and cyber security</h4>
 								<div class="">
-								TechBharat Consulting offers its Workshop on Game Development under the aegis of Infotsav'15.It will be a two days workshop covering all the elements of Game Development.Registration fee is Rs.1000/-
-								<a href="#">Read more</a>
+								BrainTech Network & Cyber Security Championship is an Azure Skynet Solutions Pvt. Ltd. initiative that focuses on guiding students in their quest for a prime level of technical education. It offers high caliber training programs while enrolling participants under 2 levels of evaluation process. Under this stratagem, participants are assessed on theoretical & practical grounds & so are titled as Championship Holders. A scholarship worth Rs. 1 Lac is awarded at the Grand Finale of this program.  <br>Registration fee is Rs.900/-
+								<!-- <a href="#">Read more</a> -->
 								</div>
 								<br/><br/>
-								<h4 class="">How to built your own website</h4>
+								<!-- <h4 class="">How to built your own website</h4>
 								<div class="">
 								"You're committing to search for one of the rare ideas that generates rapid growth" - Paul Graham. An Entrepreneur starting a startup is committing to solve a harder type of problem than ordinary businesses do. For all those budding Entrepreneur we present our workshop on 'How To Build your own Startup'.Registration fee is Rs.600/- The workshop will be conducted by an eminent entrepreneur Ronak Dhoot - CTO & Co-founder Geek Shastra.
-								<a href="#">Read more</a>
-								</div>
+								<!-- <a href="#">Read more</a> -->
+								<!-- </div> --> 
 							</section>
 							<section class="right">
 								<center>
 								<br/><br/><br/>
-								<img src="images/ws1.jpg" class="ws1"><br/><br/>
-								<img src="images/ws2.png" class="ws2"><br/><br/><br/>
-								<img src="images/ws3.jpg" class="ws3">
+								<img src="images/blue.jpg" class="ws1"><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+								<img src="images/cyber.jpg" class="ws2"><br/><br/><br/>
+								<!-- <img src="images/ws3.jpg" class="ws3"> -->
 								</center>
 
-							</section> -->
+							</section>
 						</div>
 					<div class="clear"></div>
 				</div>
@@ -520,41 +521,40 @@
 				<div class="inner abinfotsav clearfix">
 					<h2><center><pre>Accomodation & Fooding</pre></center></h2>
 					<section>
-						<ul style="font-family: newbold;font-size:150%;">
-							<li style="font-family: newbold;">
-								<b>Accommodation</b>
-								<ul>
-								<li>Hostel: Rs. 200 for 3 days </li>
-								<li>International Visitors Hostel: Rs. 250 per day for 2 person + Rs. 100 per day per extra person *</li>
-								<li>MDP: Rs. 750 per day for two person + Rs. 250 per day per extra person*</li>
-								</ul>
-							</li>
+						<table style="font-family: newbold;font-size:80%;">
+							<tr style="font-family: newbold;">
+								<td><b><u>Accommodation:-</u></b></td>
+								
+								<td>Hostel: Rs. 200 for 3 days <br>
+								International Visitors Hostel: Rs. 250 per day for 2 person + Rs. 100 per day per extra person *<br>
+								MDP: Rs. 750 per day for two person + Rs. 250 per day per extra person*</td>
+								
+							</tr>
 
 
-							<li style="font-family: newbold;">
-							 	<b>Fooding:</b>
-								<ul>
-								<li>Rs. 100 per person per day</li>
-								<li>Rs. 200 per person per day (only lunch and dinner)</li>
-								</ul>
-							</li>
-							<li style="font-family: newbold;">
-							 	<b>Security Charges: </b>
-								<ul>
-								<li>For hostel and visitor hostel: Rs. 100</li>
-								<li>For MDP : Rs. 300 </li>
-								</ul>
-							</li>
-							<li style="font-family: newbold;">
-							 	<b> Facilities included: </b>
-								<ul>
-								<li>Free wifi facilities</li>
-								<li>Free transportation</li>
-								<li>Free pass for the DJ Night</li>
-								</ul>
-							</li>
+							<tr style="font-family: newbold;">
+							 	<td><b><u>Fooding:-</u></b></td>
+								<td>Rs. 100 per person per day<br>
+								Rs. 200 per person per day (only lunch and dinner)
+								</td>
+							</tr>
+							<tr style="font-family: newbold;">
+							 	<td><b><u>Security:- </u></b>
+								</td>
+								<td>For hostel and visitor hostel: Rs. 100<br>
+								For MDP : Rs. 300 
+								</td>
+							</tr>
+							<tr style="font-family: newbold;">
+							 	<td><b><u> Facilities:-</u> </b>
+								</td>
+								<td>Free wifi facilities<br>
+								Free transportation<br>
+								Free pass for the DJ Night
+								</td>
+							</tr>
 
-						</ul>
+						</table>
 					</section>
 				</div>
 			</div>

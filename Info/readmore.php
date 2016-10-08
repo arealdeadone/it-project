@@ -123,7 +123,7 @@ $row = $qu->fetch(PDO::FETCH_ASSOC);
 <!--            </div>-->
               <div class="form-group" style="margin-top:40px;margin-left:65px;">
                 <div style="padding-left: 20%;">
-                  <button type="submit" class="btn btn-primary" id="button" >Register</button>
+                  <button type="submit" class="btn btn-primary" id="button" >Reg</button>
                 </div>
               </div>
           </form>
