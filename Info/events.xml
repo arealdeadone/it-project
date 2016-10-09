@@ -1057,7 +1057,17 @@ class="phone"&gt;E-mail: &lt;/span&gt;archit2693@gmail.com
 		<!-- &lt;b&gt;Objective: &lt;/b&gt;
 		Make a black line following robot. The time taken by the bot to traverse through the course will be one of the concrete criteria for determining the winner. The lesser the time taken the better the points gained by the bot.  If nobody finish the run, the farthest one run on tracks with maximum points will win.   -->
         </DESCRIPTION>	
-		<RULES>Coming Soon
+		<RULES>1.	A team can have 2 - 4 members, out of which maximum of 1 can be allowed in the arena.&lt;/br&gt;
+2.	The event will be conducted in two level, and top 10 teams in the leader board will be eligible for the final round.&lt;/br&gt;
+3.	Once a robot has crossed the starting line it must remain fully autonomous, or it will be disqualified.&lt;/br&gt;
+4.	Any robot that loses the line course must reacquire the line at the previous Checkpoint where it was lost, or at any earlier (e.g. already traversed Checkpoint).&lt;/br&gt;
+5.	Bot must not lose any parts in the arena or collide with any other bot during the competitions, this will lead to disqualification.&lt;/br&gt;
+6.	Any Damage to Arena, other team bot will lead to direct disqualification.&lt;/br&gt;&lt;/br&gt;
+&lt;b&gt;Battery and Power:&lt;/b&gt;&lt;/br&gt;
+The robot can be powered electrically only. The electric voltage between 2 points anywhere in the robot should not be more than 12 V DC at any point of time.
+All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification.&lt;/br&gt;
+
+
 </RULES>
 
 		<TIMELINE>
