@@ -97,14 +97,14 @@ $row = $qu->fetch(PDO::FETCH_ASSOC);
 
     </div>
     <?php if (1) {?>
-    <center><a href="#openModal"><button style="border: 1px solid white ; font-size: 26px; font-family: test;">Register</button></a></center>
+    <center><a href="#openModal"><button style="border: 1px solid white ; font-size: 26px; font-family: test;margin-bottom:5%;">Register</button></a></center>
 
     <div id="openModal" class="modalDialog">
       <div> <a href="#close" title="Close" class="close" style="color: blue;background-color: white;font-size: 200%;">X</a>
         <div style="background-color: white;padding: 8%;padding-top: 3%;">
         <center><h2 style="padding-bottom: 2%;font-weight: bold">Register here</h2></center>
 
-          <form method="post" action="../regevents.php" class="form-horizontal" id="form" style="margin-top:30px;margin-left:20%;font-size: 120%;font-family: test;">
+          <form method="post" action="../regevents.php" class="form-horizontal" id="form" style="margin-top:30px;margin-left:20%;font-size: 120%;">
             <div class="form-group">
               <label for="name" class="col-sm-2 control-label">Team Name</label>
               <div class="col-xs-8">

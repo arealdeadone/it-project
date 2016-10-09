@@ -471,7 +471,7 @@
 			<div class="door"></div>
 			<div class="lightbox">
 				<div class="inner sponsors clearfix">
-					<center><h2>PREVIOUS SPONSORS</h2></center>
+					<center><h2>SPONSORS</h2></center>
 					<div>
 						<center><!-- <img src="images/sponsors.new.jpg" width="900px" height="900px" class="sponsorPic"> -->
 						COMING SOON...</center>
