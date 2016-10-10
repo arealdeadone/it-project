@@ -1,7 +1,7 @@
 <?php
 $i=(int)$_GET['id'];
 $jk = $i;
-$db = new PDO('mysql:host=localhost;dbname=infotsav','root','');
+$db = new PDO('mysql:host=localhost;dbname=infotsav','root','Iiahtth');
 $s4 = "SELECT * FROM eventdetails WHERE id= ?";
 $qu = $db->prepare($s4);
 $qu->bindParam(1,$jk);
@@ -114,7 +114,7 @@ $row = $qu->fetch(PDO::FETCH_ASSOC);
       </div>
 
     </div>
-    <?php if (1) {?>
+  <?php if ($EVENTLIST->EVENT[$i]->TITLE != "Techathlon")  {?>
     <center><a href="#openModal"><button style="border: 1px solid white ; font-size: 26px; font-family: test;">Register</button></a></center>
 
     <div id="openModal" class="modalDialog">

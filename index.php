@@ -208,7 +208,7 @@
 				if($user->isLoggedIn())
 				{
 					echo '<li><a href="#logout">Logout</a></li>';
-					echo '<li><a href="#login"> || Welcome '.$user->data()->name." ||</a></li>";
+					echo '<li><a href="#login"> ||'.$user->data()->name." ||</a></li>";
 				}
 				else
 					echo '<li><a href="#login">Login/Register</a></li>';

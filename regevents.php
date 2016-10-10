@@ -19,7 +19,7 @@ if(!$user->isLoggedIn())
 
 
 $eid = $_POST['eid'];
-$db = new PDO('mysql:host=localhost;dbname=infotsav','root','');
+$db = new PDO('mysql:host=localhost;dbname=infotsav','root','Iiahtth');
 $qu = $db->prepare("SELECT * FROM eventdetails WHERE id= ?");
 $qu->bindParam(1,$eid);
 $qu->execute();

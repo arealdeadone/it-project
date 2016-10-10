@@ -11,7 +11,7 @@ console.log = function () {
 	var showedAlert = false;
 	var Game = function() {
 		this.player = $("#player");
-		this.topPos = 0;
+		this.topPos = 120;
 		this.leftPos = $(window).width() / 2 - this.player.width() / 2;
 		this.init();
 	};
