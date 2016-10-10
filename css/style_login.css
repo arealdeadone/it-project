@@ -1641,7 +1641,7 @@ nav li.last a:hover {
 	border-radius: 5px 0 0 5px;
 }
 
-#guestLecturesa {
+#guestLecture {
 	position: fixed;
 	z-index: 700;
 	right: 0;
@@ -1654,8 +1654,14 @@ nav li.last a:hover {
 	border-radius: 5px 0 0 5px;
 	background: rgba(0,0,0,0.65);
 	color: #fff;
+		background: #f7f7f7;
+	-webkit-transition: width 3s height 2s;
+	transition: width 3s height 2s;
 }
-
+#guestLecture:hover {
+	width:50%;
+	height:60%;
+}
 #guestDetails {
 	position: fixed;
 	z-index: 710;

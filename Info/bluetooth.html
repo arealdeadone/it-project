@@ -1,0 +1,57 @@
+<<!DOCTYPE html>
+<html style="color: white;">
+<head>
+	<title>Network & Cyber security | Infotsav'16</title>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="SHORTCUT ICON" href="../favicon.png">
+      <script src="js/jquery.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <style type="text/css"></style>
+      <style>
+        @font-face{
+  font-family: test;
+  src:url(college.otf);
+}
+      </style>
+      <script>
+      	  function span()
+            {window.history.go(-1);
+      }
+      </script>
+</head>
+<body>
+<div style="background: url(img/FuckingNoobs.jpg);background-repeat: repeat;background-size: cover;width: 100%;height: 100%;position: fixed;top: 0;background-attachment: scroll;overflow-x: hidden;overflow-y: auto;">
+
+      <div style="padding-left: 6%;">
+    
+      <span onclick="span()" class="glyphicon glyphicon-remove" style="color: white;font-size: 250%;font-weight: 500;margin-left: 94%;margin-top: 2%; cursor:pointer;"></span>
+ 
+         
+           
+      <h2 style="font-family: farray;margin-bottom: 5%;font-size:400%;color: white;"><center>
+      Network & Cyber Security</center></h2>
+      <div style="margin-bottom: 5%;"><span style="color:white;font-size:250%;font-weight:500;padding: 2%;font-family: test;"><center>DESCRIPTION</center></span>
+      <span style="font-size: 1.6em;color: white;font-family: new;font-weight: normal;">
+      BrainTech Network & Cyber Security Championship is an Azure Skynet Solutions Pvt. Ltd. initiative that focuses on guiding students in their quest for a prime level of technical education. It offers high caliber training programs while enrolling participants under 2 levels of evaluation process. Under this stratagem, participants are assessed on theoretical & practical grounds & so are titled as Championship Holders. A scholarship worth Rs. 1 Lac is awarded at the Grand Finale of this program.<br>Registration fee is Rs.900/-</span>
+      </div>
+      <div style="margin-bottom: 5%;"><span style="color:white;font-size:250%;font-weight:500;padding: 2%;font-family: test;"><center>WORKSHOP CONTENT</center></span>
+      <span style="font-size: 1.6em;color: white;font-family: new;font-weight: normal;">
+        
+      </span>
+      </div>
+      <div style="margin-bottom: 5%;"><span style="color:white;font-size:250%;font-weight:500;padding: 2%;font-family: test;"><center>TIMELINE</center></span>
+      <span style="font-size: 1.6em;color: white;font-family: new;font-weight: normal;"><?php  echo $EVENTLIST->EVENT[$i]->TIMELINE; ?></span>
+      </div>
+      <div style="margin-bottom: 5%;"><span style="color:white;font-size:250%;font-weight:500;padding: 2%;font-family: test;"><center>CONTACTS</center></span>
+      <span style="font-size: 1.6em;color: white;font-family: new;font-weight: normal;"><?php  echo $EVENTLIST->EVENT[$i]->CONTACTS; ?></span>
+      <center>
+      <?php if ($EVENTLIST->EVENT[$i]->TITLE == "Techathlon") {?> <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeOfsXPWSWyJ168nQGUvPdNBueQSPhe9BlQ9ARyOOXzPWCgDg/viewform"><button style="border: 1px solid white ; font-size: 26px; font-family: test;">Register</button></a></center> <?php } ?>
+      </div>
+
+    </div>
+
+</body>
+</html>

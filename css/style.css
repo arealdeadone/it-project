@@ -1682,11 +1682,11 @@ nav li.last a:hover {
 	border-radius: 5px 0 0 5px;
 }
 
-#guestLecturesa {
+#guestLecture {
 	position: fixed;
 	z-index: 700;
 	right: 0;
-	top: 60%;
+	top: 50%;
 	width: 70px;
 	padding: 10px 5px;
 	background: #f7f7f7;
@@ -1694,8 +1694,15 @@ nav li.last a:hover {
 	border: 1px solid #e7e7e7;
 	text-align: center;
 	border-radius: 5px 0 0 5px;
+	background: #f7f7f7;
+	-webkit-transition: width 2s height 2s;
+	transition: width 2s height 2s;
 }
-
+#guestLecture:hover {
+	width:50%;
+	height:45%;
+	font-size: 120%;
+}
 #guestDetails {
 	position: fixed;
 	z-index: 710;

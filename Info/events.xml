@@ -6,10 +6,10 @@
 		<TITLE>Bug Spot</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>bugspot.jpg</IMAGE>
-		<DESCRIPTION>Bug spot, the on-spot debugging contest is not only about programming talent but also about applying the sheer knowledge to rectify errors. The challenge tests a programmer's ability to understand and respond to dissimilar codes. The art of rectification / debugging is difficult than conventional programming because it's not about what you know, it's about how much you know and how you apply those cognitive ideas to recognize errors and act upon them. The event tests the programmer in areas of speed, intellect and understanding.
+		<DESCRIPTION>&lt;br&gt; &lt;br&gt;Bug spot, the on-spot debugging contest is not only about programming talent but also about applying the sheer knowledge to rectify errors. The challenge tests a programmer's ability to understand and respond to dissimilar codes. The art of rectification / debugging is difficult than conventional programming because it's not about what you know, it's about how much you know and how you apply those cognitive ideas to recognize errors and act upon them. The event tests the programmer in areas of speed, intellect and understanding.
 		<!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 12000 to be won  &lt;/b&gt; -->
 		</DESCRIPTION>
-		<RULES>Programming languages used will be C and Java.&lt;br&gt;
+		<RULES>&lt;br&gt;&lt;br&gt;Programming languages used will be C and Java.&lt;br&gt;
 A group can have maximum of 3 members.&lt;br&gt;
 Rounds&lt;br&gt;
 1st ROUND- Will consist of 50 MCQs related to basic programming knowledge, duration of which will be 1 hour. &lt;br&gt;
@@ -55,10 +55,10 @@ In case of any discrepancy, decision of event organizers will be final.</RULES>
 		<TITLE>Code Rush</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>coderush.jpg</IMAGE>
-		<DESCRIPTION>Do you have the brain of a genius? The online programming contest is here for you. Loose your rationality &amp; let your rusty gears loose, jingle in the disco of grey cells. Show your programming skills and provide the best possible solution you can. So prove yourself on the battlefield and only then you will be a great warrior. After all, life doesn't give a second chance. If you love to code, demystifying the truth or had a knack for unravelling baffling challenges, then this event is best suited for you.
+		<DESCRIPTION>&lt;br&gt;Do you have the brain of a genius? The online programming contest is here for you. Loose your rationality &amp; let your rusty gears loose, jingle in the disco of grey cells. Show your programming skills and provide the best possible solution you can. So prove yourself on the battlefield and only then you will be a great warrior. After all, life doesn't give a second chance. If you love to code, demystifying the truth or had a knack for unravelling baffling challenges, then this event is best suited for you.
 		<!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 7000 to be won + intern from Internshala.com. &lt;/b&gt; -->
 		</DESCRIPTION>
-		<RULES>Please do not discuss strategy, suggestions or tips in the comments during a live contest. Posting questions clarifying the problem statement is ok. If you are unsure, email us at feedback@codechef.com .&lt;br&gt;
+		<RULES>&lt;br&gt;Please do not discuss strategy, suggestions or tips in the comments during a live contest. Posting questions clarifying the problem statement is ok. If you are unsure, email us at feedback@codechef.com .&lt;br&gt;
 Discussing CodeChef's problems or any aspect of problem, on any other platform on web, on identification, could lead to disabling of respective account and banning from the community.&lt;br&gt;
 Almost all languages supported on CodeChef are allowed.&lt;br&gt;
 Each program will be tested based on our critical test data. However output and input should be exactly as specified in the samples provided&lt;br&gt;
@@ -109,7 +109,7 @@ Any participant found to be indulging in any form of malpractice will be immedia
 		<TITLE>Techathlon</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>techathlon.jpg</IMAGE>
-		<DESCRIPTION>
+		<DESCRIPTION>&lt;br&gt;
 			In the era of increasing efficiency, multitask and reach your destined glory. For all the code maniacs out there who are ready for a coding extravaganza, Infotsav, this year is conducting Techathlon. From an Aptitude test in your own college, through an online coding round, to various onsite events at ABV-IIITM, Techathlon, at every stage, will put your knowledge, skills as well as logical ability to test. It is a 4-event technical extravaganza consisting of:-
 			&lt;/br&gt; &lt;a href = "readmore.php?id=5"&gt;Algorithm Writing &lt;/a &gt;
 			&lt;/br&gt; &lt;a href = "readmore.php?id=0"&gt;Bugspot &lt;/a &gt;
@@ -179,12 +179,12 @@ Any participant found to be indulging in any form of malpractice will be immedia
 		<TITLE>Hackathon</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>hackathon.jpg</IMAGE>
-		<DESCRIPTION>
+		<DESCRIPTION>&lt;br&gt;
 			An event in which programmers and developers from
 			around the globe get together and collaboratively design and develop new
 			apps or solutions to real life problems using latest technologies. Learn, apply , innovate and take home a life time experience  of becoming a part of a greater community. Make your mark and get your due recognition in industry.
 		</DESCRIPTION>
-		<RULES>&lt;ul&gt;
+		<RULES>&lt;br&gt; &lt;ul&gt;
 				&lt;li&gt;
 All aspects of the Entrant Content must be originally created by and solely owned by you or in the public domain. All third party content and content unoriginal to you (unless it is in the public domain) is prohibited.
 &lt;/li&gt;&lt;li&gt;
@@ -247,23 +247,25 @@ Participants need to register to the event. Theme of the contest will be announc
 		<TITLE>S.C.R.U.D.</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>scrud.jpg</IMAGE>
-		<DESCRIPTION>The main purpose of coding has always been formulating a product to serve a purpose helpful for mankind.  Show your vision, apply your logics, type in your code and formulate a product pertaining to the given theme. Choose any platform from web, desktop software or android,  and make an efficient product. You will be judged on the basis of robustness, creativity, time and memory complexity. &lt;/br&gt;
+		<DESCRIPTION>&lt;br&gt;The main purpose of coding has always been formulating a product to serve a purpose helpful for mankind.  Show your vision, apply your logics, type in your code and formulate a product pertaining to the given theme. Choose any platform from web, desktop software or android,  and make an efficient product. You will be judged on the basis of robustness, creativity, time and memory complexity. &lt;/br&gt;
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 12000 to be won  &lt;/b&gt; -->
 </DESCRIPTION>
-<RULES>
+<RULES>&lt;br&gt;
 1.	Maximum Team size allowed: 3. &lt;/br&gt;
 2.	The event will take place in 2 Rounds. &lt;/br&gt;
 3.	Teams are required to register at Infotsav 2016 website first. &lt;/br&gt;
 4.	Students from different colleges can also team up. &lt;/br&gt;
 5.	All technologies and platforms are allowed. &lt;/br&gt;
 6.	Contestants can bring their own laptops for presentation. &lt;/br&gt;
-7.	Use of unfair means will lead to disqualification. &lt;/br&gt;
-8.	The decision of the judges will be final. &lt;/br&gt;
+7.	Round 1 is an online submission round. Participants are required to prepare a proposal/abstract in 3-5 pages and mail it together with the screenshots of their project before the stipulated deadline.&lt;/br&gt;
+8.	Use of unfair means will lead to disqualification. &lt;/br&gt;
+9.	The decision of the judges will be final. &lt;/br&gt;
+10. Shortlisted teams from Round 1 would be invited to the ABV-IIITM GWALIOR for the Round 2 which also would be the final round of the contest. 
 
 </RULES>
 
 
-<TIMELINE>
+<TIMELINE>&lt;br&gt;
 
 1.	Teams should register themselves before 8th November 2016.&lt;/br&gt;
 2.	Any registration after 8th November will not be allowed.&lt;/br&gt;
@@ -272,23 +274,23 @@ Participants need to register to the event. Theme of the contest will be announc
 
 
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/pinnacle.pdf' target='_blank'&gt;Pinnacle Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
-<CONTACTS>&lt;h4&gt;ARPIT YADAV
+<CONTACTS>&lt;br&gt; &lt;h4&gt;ARPIT YADAV
 &lt;/h4&gt;
                                                     &lt;p&gt;
                                                         &lt;span
 class="phone"&gt;Phone:&lt;/span&gt;+91-8718844237&lt;/br&gt;
                                                         &lt;span
-class="phone"&gt;E-mail: &lt;/span&gt;yadavarpit@gmail.com
+class="phone"&gt;E-mail: &lt;/span&gt;yadavarpitbcn@gmail.com
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
 &lt;h4&gt;DEVASHEESH ROY
  &lt;/h4&gt;
 &lt;p&gt;
 &lt;span
-class="phone"&gt;Phone:&lt;/span&gt;+91-8090976918
+class="phone"&gt;Phone:&lt;/span&gt;+91-8090926918
 &lt;/br&gt;
                                                         &lt;span
-class="phone"&gt;E-mail: &lt;/span&gt;
+class="phone"&gt;E-mail: &lt;/span&gt;devasheesh2406.best@gmail.com
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
 
@@ -314,11 +316,39 @@ class="phone"&gt;E-mail:&lt;/span&gt;evi.agarwal@gmail.com
 
 		<IMAGE>algo.jpg</IMAGE>
 
-		<DESCRIPTION>An event to test the participants' problem solving and algorithm designing skills. Particpants will be given some problems and will be required to give a pseudo code containing step by step operations to be performed to solve that problem.
+		<DESCRIPTION>&lt;br&gt;An event to test the participants' problem solving and algorithm designing skills. Particpants will be given some problems and will be required to give a pseudo code containing step by step operations to be performed to solve that problem.
 		You shall be judged on the basis of time  and space complexity of the algorithm you prosed.
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 12000 to be won  &lt;/b&gt; -->
 </DESCRIPTION>
-		<RULES>Coming Soon
+		<RULES>Round 1&lt;br&gt;
+1.	Pen-Paper based round.&lt;br&gt;
+2.	5-6 questions of varying difficulty.&lt;br&gt;
+3.	Only Pseudo code is required. &lt;br&gt;
+4.	Only 50% of the participants will qualify for the next level.&lt;br&gt;
+5.	Solutions will be judged on the basis of correctness and efficiency.&lt;br&gt;
+6.	Questions will be given weightage according to their difficulty level.&lt;br&gt;
+7.	There will be no negative marking for the wrong solution. &lt;br&gt;
+Duration of round 1: 1 hour&lt;br&gt;
+Round 2&lt;br&gt;
+1.	Some images or videos will be shown to the participants and questions will be asked on their basis. &lt;br&gt;
+2.	The solutions given by the participants will be judged by the efficiency and correctness of the solution. &lt;br&gt;
+3.	To test interpretation and analysing capability. &lt;br&gt;
+Duration of round 2: 2 hrs&lt;br&gt;
+Round 3&lt;br&gt;
+1.	This round will be conducted in two phases.&lt;br&gt; 
+2.	In the first phase, all the participants will have to frame a problem which, in the second phase, will be given to some other participant.&lt;br&gt;
+3.	In the second phase, participants will write a pseudo code for the given problem.&lt;br&gt;
+4.	Shuffling of the questions will be done using chit system.&lt;br&gt;
+5.	The duration of first phase and second phase will be 60 minutes and 30 minutes respectively.&lt;br&gt;
+6.	Judgement will be based on question framing and solving abilities.&lt;br&gt;
+7.	There will be no negative marking for wrong answer.&lt;br&gt;
+Duration of round 3:  90 minutes&lt;br&gt;
+General rules:&lt;br&gt;
+1.	There will only be individual participation. No teams are allowed.&lt;br&gt;
+2.	The decision of the organizers shall be final and binding.&lt;br&gt;
+3.	Usage of calculators, mobile phones and any other electronic device will not be allowed inside the venue.&lt;br&gt;
+4.	If any malicious activity is detected, the team will be disqualified.&lt;br&gt;
+
 </RULES>
 
 
@@ -329,7 +359,7 @@ class="phone"&gt;E-mail:&lt;/span&gt;evi.agarwal@gmail.com
 </TIMELINE>
 
 
-		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/pinnacle.pdf' target='_blank'&gt;Pinnacle Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
+		<DOWNLOADS>&lt;br&gt;&lt;li&gt;&lt;a href='downloads/pinnacle.pdf' target='_blank'&gt;Pinnacle Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
 <CONTACTS>&lt;h4&gt;ANJALI MUNJAL
 
 &lt;/h4&gt;
@@ -364,14 +394,14 @@ class="phone"&gt;E-mail: &lt;/span&gt;vishakhachichra@gmail.com
 		<TAGLINE></TAGLINE>
 
 		<IMAGE>jobs.jpg</IMAGE>
-		<DESCRIPTION> A good campus placement is every graduate’s deepest desire. But one needs to be fully prepared to face the toughest of the challenges that company poses to the candidates before recruiting their best fit. Therefore it becomes essential that the job seekers have sufficient knowledge and are well prepared for facing any test and interview. If they get job in their chosen and interested field, that will be a turning point in their life career. Only the best of the best get the chance of grabbing the jobs.
+		<DESCRIPTION> &lt;br&gt;A good campus placement is every graduate’s deepest desire. But one needs to be fully prepared to face the toughest of the challenges that company poses to the candidates before recruiting their best fit. Therefore it becomes essential that the job seekers have sufficient knowledge and are well prepared for facing any test and interview. If they get job in their chosen and interested field, that will be a turning point in their life career. Only the best of the best get the chance of grabbing the jobs.
 "JOBS" essentially focuses on preparing its participants for the campus placements at the same time ensures that the event as a whole is fun and exciting. It stimulates an environment of campus placements.
 
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 9000 to be won.  &lt;/b&gt; -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
 </DESCRIPTION>
-		<RULES>1.	There will be three on-campus rounds for the event. Rounds shall proceed parallel for candidates with technical and managerial background.&lt;/br&gt;
+		<RULES>&lt;br&gt;1.	There will be three on-campus rounds for the event. Rounds shall proceed parallel for candidates with technical and managerial background.&lt;/br&gt;
 2.	Round 1: will be an MCQ round. Which contains aptitude and Technical/Managerial (whichever applicable) questions to test the basic knowledge of the candidates. There will be negative marking for incorrect response in this round.&lt;/br&gt;
 3.	Round 2: candidates qualifying for this round will get to face a descriptive round of 40 minutes in which they will be tested for their depth of knowledge and their hold on the basics. Technical and Managerial students to get separate questions.&lt;/br&gt;
 4.	The final round will be an interview round. Here the candidates will be expected to answer the questions similar to a regular company interview. The result of this round lies solely in the hands of the judges. Separate interview for candidates of Technical and Managerial background.&lt;/br&gt;
@@ -414,7 +444,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;shrutiag95@gmail.com
 		<TITLE>Code Stumble</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>codestumble.jpg</IMAGE>
-		<DESCRIPTION>An amalgamation of coding and reverse engineering skills.  A two phase event which requires you to write a code as complex as you can, satisfying a given problem statement and in the next phase look at similar codes of your opponents and guess their problem statements. Make it tough for others to understand your code in first phase ; understand the gist of other’s code in minimum time and maximize your chances of winning.
+		<DESCRIPTION>&lt;br&gt;An amalgamation of coding and reverse engineering skills.  A two phase event which requires you to write a code as complex as you can, satisfying a given problem statement and in the next phase look at similar codes of your opponents and guess their problem statements. Make it tough for others to understand your code in first phase ; understand the gist of others code in minimum time and maximize your chances of winning.
 <!-- lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 9000 to be won.  &lt;/b&gt;  -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
@@ -444,13 +474,13 @@ entries or other such situations.&lt;/li&gt;&lt;li&gt;
 		<TIMELINE>
 
 &lt;br&gt;
-Round – 1 : Coding&lt;br&gt;
+Round 1 : Coding&lt;br&gt;
 Objective&lt;br&gt;
 Write a program to solve a given problem statement.&lt;br&gt;
 The program should run on all test cases provided beforehand.&lt;br&gt;
 Time Limit&lt;br&gt;
 45 minutes&lt;br&gt;
-Round – 2 : Decipher the Code&lt;br&gt;
+Round 2 : Decipher the Code&lt;br&gt;
 Objective&lt;br&gt;
 Decipher your competitor’s code and frame the problem statement for it.&lt;br&gt;
 Print the output of given test cases.&lt;br&gt;
@@ -473,13 +503,13 @@ class="phone"&gt;E-mail: &lt;/span&gt;ugoel96@gmail.com
 
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
-                                               &lt;h4&gt;LEKHANI AGARWAL
+                                               &lt;h4&gt;LEKHNI AGARWAL
 &lt;/h4&gt;
 &lt;p&gt;
 &lt;span
 class="phone"&gt;Phone: &lt;/span&gt;+91-9009612389&lt;/br&gt;
                                                         &lt;span
-class="phone"&gt;E-mail: &lt;/span&gt;
+class="phone"&gt;E-mail: &lt;/span&gt;agrawallekhni@gmail.com
 
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
@@ -503,8 +533,8 @@ class="phone"&gt;E-mail: &lt;/span&gt;sachinsharma.sharma2691998@gmail.com
 		<TITLE>Sameeksha</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>sameeksha.jpg</IMAGE>
-		<DESCRIPTION> Sameeksha is the paper presentation competition that stages brilliant
-						ideas and innovations in the field of technology and
+		<DESCRIPTION>&lt;br&gt; Sameeksha is the paper presentation competition that stages brilliant
+ideas and innovations in the field of technology and
 management and allows young researchers and students
 both at UG/PG level to bring forth the novel ideas that they
 have worked upon.
@@ -550,8 +580,8 @@ management disciplines.
 9. Soft-copies of the submitted paper and PowerPoint presentations must be in the .pdf format.
 &lt;/li&gt;
 &lt;li&gt;
-10. Please Mail your abstract, paper and PowerPoint presentation to sameeksha@infotsav.com.
-   Difficulties will be addressed through the same email-id.
+10. Please Mail your abstract, paper and PowerPoint presentation to info.sameeksha@gmail.com.
+   Difficulties will be addressed through the same email id.
 &lt;/li&gt;
 &lt;li&gt;
 11. Please bring 2 hardcopies of the submitted paper on the day of the event.
@@ -564,12 +594,12 @@ management disciplines.
 
 13. The mail with submissions should contain:
     &lt;br&gt; a. Title- theme of the paper
-     &lt;br&gt;b. Name of both the authors (with Institute’s name)
-     &lt;br&gt;c. Contact no. of both the authors
+     &lt;br&gt;b. Name of authors (with Institute’s name)
+     &lt;br&gt;c. Contact no. of all authors
      &lt;br&gt;d. E- Mail ID
 &lt;/li&gt;
 &lt;li&gt;
-14. Last day to submit soft copy of your report (via e-mail) will be seven days prior to the day of presentation.
+14. Last day to submit soft copy of your abstract (via e-mail) will be seven days prior to the day of presentation(i.e. entries will be recived till 4th of November 2016).
 &lt;/li&gt;
 &lt;li&gt;
 15. After you have submitted the soft copy, a panel of judges will go through your material and if you are shortlisted to give the presentation, you will be notified.
@@ -585,8 +615,8 @@ management disciplines.
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt;
-
+1.)Round 1: Submission of abstract online to respective mail id of event.&lt;/br&gt;
+2.)Round 2: Shortlisted candidates from round 1will present there paper before pannel of judjes at ABV IIITM,Gwalior
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/jobbureau.pdf' target='_blank'&gt;Job Bureau Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
 		<CONTACTS>&lt;h4&gt;ABHISHEK SINGH
@@ -609,7 +639,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;
 
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
-&lt;h4&gt;ANKUR SINGAL
+&lt;h4&gt;ANKUR SINGHAL
 
 &lt;/h4&gt;
 &lt;p&gt;
@@ -636,7 +666,7 @@ Brandsome is an advertising contest in which any hypothetical product is adverti
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
 		</DESCRIPTION>
-		<RULES>Technical requirements:&lt;br&gt;
+		<RULES>&lt;br&gt;Technical requirements:&lt;br&gt;
 Image submissions should meet the following requirements: &lt;br&gt;
 Colored&lt;br&gt;
 Maximum size of 1920 X 1080 px&lt;br&gt;
@@ -699,9 +729,9 @@ class="phone"&gt;E-mail: &lt;/span&gt;shivanimandeliya@gmail.com
 		<TITLE>Pinnacle</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>pinnacle.jpg</IMAGE>
-		<DESCRIPTION>If you have a unique idea that carves you out as a successful entrepreneur, then we welcome you to the most appreciated event of Infotsav. It provides your idea, a platform and eventually a spark just sufficient to ignite you. So what are you waiting for? It's show time. Pinnacle is the flagship event of Infotsav'16. The event is attracting students from the best B-schools and Engineering colleges around the country.</DESCRIPTION>
+		<DESCRIPTION>&lt;br&gt;If you have a unique idea that carves you out as a successful entrepreneur, then we welcome you to the most appreciated event of Infotsav. It provides your idea, a platform and eventually a spark just sufficient to ignite you. So what are you waiting for? It's show time. Pinnacle is the flagship event of Infotsav'16. The event is attracting students from the best B-schools and Engineering colleges around the country.</DESCRIPTION>
 
-		<RULES>
+		<RULES>&lt;br&gt;
 1. There is no registration fee.&lt;/br&gt;
 2. Executive Summary and all other documents/queries to be sent to pinnacle@infotsav.com&lt;/br&gt;
 3. A team should comprise of a maximum of 4 members.&lt;/br&gt;
@@ -713,7 +743,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;shivanimandeliya@gmail.com
 9. Any of the terms and conditions can be changed by the organizers anytime ensuring to give the participants appropriate time to respond to the changes.&lt;/br&gt;
 </RULES>
 
-		<TIMELINE>
+		<TIMELINE>&lt;br&gt;
 
 1. Last date for submission: 25th October 2016.&lt;/br&gt;
 2. Entries submitted after the deadlines will not be considered.&lt;/br&gt;
@@ -731,7 +761,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;mayankaa21@gmail.com
 
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
-													&lt;h4&gt;Chahesh Chopra&lt;/h4&gt;
+													&lt;h4&gt;Chahes Chopra&lt;/h4&gt;
                                                     &lt;p&gt;
                                                         &lt;span
 class="phone"&gt;Phone: &lt;/span&gt;+91-7354732013&lt;/br&gt;
@@ -757,7 +787,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;akhilagarwal61@gmail.com
 		<TITLE>Smart Cities</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>smartcities.jpg</IMAGE>
-		<DESCRIPTION>Smart Cities allows participants to develop solutions for cities to improve their condition by submitting their ideas for products or services that improve the lifestyle of citizens and provide them a way to match the growth rate of towns and developed cities.
+		<DESCRIPTION>&lt;br&gt;Smart Cities allows participants to develop solutions for cities to improve their condition by submitting their ideas for products or services that improve the lifestyle of citizens and provide them a way to match the growth rate of towns and developed cities.
 <!-- Prizes worth Rs 15000 + internship opportunity by CollegeFever to be won. &lt;/b&gt; -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.13,000&lt;/li&gt;&lt;/b&gt;&lt;/p&gt;-->
 		</DESCRIPTION>
@@ -768,7 +798,7 @@ Our team will give a feedback on your presentation and participants should make 
 Round2:Shortlisted teams from Round 1 would be invited to the ABV-IIITM, Gwalior campus for a proper presentation.
 &lt;br&gt;
 Notice:&lt;br&gt;
-This competition is open to all students. Each team can comprise of a maximum of three members and should be from the same institute.The teams need to send their entries to tomorrow'scities2K16@infotsav.com with the subject line and document name as Tomorrow'sCities2K16_Teamname_Collegename.&lt;br&gt;
+This competition is open to all students. Each team can comprise of a maximum of three members and should be from the same institute.The teams need to send their entries to smartcities@infotsav.com with the subject line and document name as smatCities2K16_Teamname_Collegename.&lt;br&gt;
 The body of the mail should contain the names of the team members,Course name, email Id and contact numbers.Register for the event by clicking on the link provided on the website for the same. The proposal should be in the pdf format.The decisions of the organizers and the panel of judges will be final and binding on all the participants.&lt;br&gt;
 </RULES>
 
@@ -1139,7 +1169,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;suruchiarya30@gmail.com
 		<IMAGE>roborace.jpg</IMAGE>
 
 		<DESCRIPTION><!--  &lt;b&gt;Introduction &lt;/b&gt; -->
-		Blazing Wheels is a simple Robotics competition where couple of Robots would be competing with each other in terms of speed and accurate control. There will be a race between two manually controlled robots. The robots should be controlled via remote control. Each team gets only one chance and the team completing first wins the race.
+		Blazing Wheels is a simple Robotics competition where various Robots would be competing with each other in terms of speed and accurate control. There will be a race between two manually controlled robots. The robots should be controlled via remote control. Each team gets only one chance and the team completing first wins the race.
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 11000 to be won. &lt;/b&gt; -->
 		&lt;/br&gt;
 		<!-- &lt;b&gt;TASK &lt;/b&gt;
@@ -1316,8 +1346,8 @@ class="phone"&gt;E-mail: &lt;/span&gt;suruchiarya30@gmail.com
 		<IMAGE>robowar.jpg</IMAGE>
 		<DESCRIPTION>
 		Robo Wars is a real-time arcade game in which two opponents would be competing with their manually operated robots with the objective of immobilizing each other. The last robot standing would be the winner.Robo war will be held in two categories,namely :-
-&lt;br&gt;&lt;br&gt;Robo War - &lt;/b&gt; The bots with weight between 20-40 kgs and size 60cm x 60cm x 80cm are eligible for this category.
-&lt;br&gt;&lt;br&gt;Mini Robo War - &lt;/b&gt;  The bots with weight less than 20 kgs and size 30cm x 30cm x 30cm are eligible for this category.
+&lt;br&gt;&lt;br&gt;Mega War - &lt;/b&gt; The bots with weight between 20-40 kgs and size 60cm x 60cm x 80cm are eligible for this category.
+&lt;br&gt;&lt;br&gt;Mini War - &lt;/b&gt;  The bots with weight less than 20 kgs and size 30cm x 30cm x 30cm are eligible for this category.
 
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 18000 to be won. &lt;/b&gt; -->
 		&lt;/br&gt;
@@ -1511,15 +1541,21 @@ class="phone"&gt;E-mail:191ashish@gmail.com&lt;/span&gt;
 
 
 </DESCRIPTION>
-		<RULES>The Programming Quiz will consist of three rounds:- &lt;/br&gt;
+		<RULES>&lt;/br&gt;1The Programming Quiz will consist of three rounds:- &lt;/br&gt;
 1.	Qualifying Round- Each team would be given a set of question paper containing multiple choice objective type questions based on syntax and logical understanding. This round will be pen paper based round . 15 teams will qualify for the next round. &lt;/br&gt;
 Time: 45 minutes &lt;/br&gt;
-
+&lt;/br&gt;
 2.	Elimination Round –This will be PPT based round. Only 5 teams would be selected for Elimination Round. &lt;/br&gt;
 Time: 1 hr &lt;/br&gt;
+&lt;/br&gt;
 
 3.	Final Round – Top 5 teams will meet in this final round which consists of three sub-rounds. These sub-rounds are listed below. &lt;/br&gt;
 Time: 2 hr &lt;/br&gt;
+&lt;/br&gt;
+Sub-rounds:&lt;/br&gt;
+1.	Buzzer Round&lt;/br&gt;
+2.	Jeopardy&lt;/br&gt;
+3.	Survival Round&lt;/br&gt;
 
 </RULES>
 
@@ -1555,12 +1591,12 @@ class="phone"&gt;E-mail:191ashish@gmail.com&lt;/span&gt;
 		<TITLE>Aptitude Quiz</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>aptitude.jpg</IMAGE>
-		<DESCRIPTION>An event to judge your critical thinking and analytical abilities.  Exercise your brain , think out of the box and crack the challenges. The topics involved shall cover verbal reasoning, non - verbal reasoning and basic mathematics.
+		<DESCRIPTION>&lt;/br&gt;An event to judge your critical thinking and analytical abilities.  Exercise your brain , think out of the box and crack the challenges. The topics involved shall cover verbal reasoning, non - verbal reasoning and basic mathematics.
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
 
 </DESCRIPTION>
-		<RULES>The Quiz will consist of three rounds:- &lt;/br&gt;
+		<RULES>&lt;/br&gt;The Quiz will consist of three rounds:- &lt;/br&gt;
 1.	Qualifying Round- Each team would be given a set of question paper containing multiple choice objective type questions based on aptitude. This round will be pen paper based round . 15 teams will qualify for the next round. &lt;/br&gt;
 Time: 45 minutes &lt;/br&gt;
 
@@ -1606,13 +1642,13 @@ class="phone"&gt;E-mail:hpal.261994@gmail.com &lt;/span&gt;
 		<TITLE>Anime Mania</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>animemania.jpg</IMAGE>
-		<DESCRIPTION>Are you the ultimate animaniac...Then this event is for you. OTAKU is an anime quiz featuring  top anime series based on weekly shonen jump like Dragon Ball Z, Fullmetal Alchemist, Naruto, Bleach, One piece and many more…
+		<DESCRIPTION>&lt;/br&gt;Are you the ultimate animaniac...Then this event is for you. OTAKU is an anime quiz featuring  top anime series based on weekly shonen jump like Dragon Ball Z, Fullmetal Alchemist, Naruto, Bleach, One piece and many more…
 Events like anime trivia, guess the character ad show, anime riddles and many others for all anime lovers out there!
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
 
 </DESCRIPTION>
-		<RULES>The Quiz will consist of three rounds:- &lt;/br&gt;
+		<RULES>&lt;/br&gt;The Quiz will consist of three rounds:- &lt;/br&gt;
 1.	Qualifying Round- Each team would be given a set of question paper containing multiple choice objective type questions. This round will be pen paper based round . 15 teams will qualify for the next round. &lt;/br&gt;
 Time: 45 minutes &lt;/br&gt;
 
