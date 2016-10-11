@@ -257,7 +257,7 @@ Participants need to register to the event. Theme of the contest will be announc
 4.	Students from different colleges can also team up. &lt;/br&gt;
 5.	All technologies and platforms are allowed. &lt;/br&gt;
 6.	Contestants can bring their own laptops for presentation. &lt;/br&gt;
-7.	Round 1 is an online submission round. Participants are required to prepare a proposal/abstract in 3-5 pages and mail it together with the screenshots of their project before the stipulated deadline.&lt;/br&gt;
+7.	Round 1 is an online submission round. Participants are required to prepare a proposal/abstract in 3-5 pages and mail it at scrud@infotsav.com together with the screenshots of their project before the stipulated deadline.&lt;/br&gt;
 8.	Use of unfair means will lead to disqualification. &lt;/br&gt;
 9.	The decision of the judges will be final. &lt;/br&gt;
 10. Shortlisted teams from Round 1 would be invited to the ABV-IIITM GWALIOR for the Round 2 which also would be the final round of the contest. 
@@ -444,7 +444,11 @@ class="phone"&gt;E-mail: &lt;/span&gt;shrutiag95@gmail.com
 		<TITLE>Code Stumble</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>codestumble.jpg</IMAGE>
-		<DESCRIPTION>&lt;br&gt;An amalgamation of coding and reverse engineering skills.  A two phase event which requires you to write a code as complex as you can, satisfying a given problem statement and in the next phase look at similar codes of your opponents and guess their problem statements. Make it tough for others to understand your code in first phase ; understand the gist of others code in minimum time and maximize your chances of winning.
+		<DESCRIPTION>&lt;br&gt;An amalgamation of coding and reverse engineering skills.
+
+A two phase event which requires you to write a complete, working and complex code for a given problem statement in the first phase and then frame the problem statement for the code written by your competitors in the second phase.
+
+Make your code tough for others to understand in first phase and understand the gist of your competitor code in second phase to maximize your chances of winning.
 <!-- lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 9000 to be won.  &lt;/b&gt;  -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
@@ -666,16 +670,23 @@ Brandsome is an advertising contest in which any hypothetical product is adverti
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
 		</DESCRIPTION>
-		<RULES>&lt;br&gt;Technical requirements:&lt;br&gt;
-Image submissions should meet the following requirements: &lt;br&gt;
-Colored&lt;br&gt;
-Maximum size of 1920 X 1080 px&lt;br&gt;
-Horizontal or vertical orientation &lt;br&gt;
-In .jpeg , .jpg , .png format &lt;br&gt;
-With a limit of 5MB per image. &lt;br&gt;
-The video advertisement should not be more than 40 seconds long and should be in .mpg, .avi or .flv format.&lt;br&gt;
-In Video advertisement, flash presentation is also allowed.&lt;br&gt;
-The audio advertisement should not be more than 20 seconds long and should be in .mp3 or .mp4 format.&lt;br&gt;
+		<RULES>&lt;br&gt;&lt;b&gt;Phases of this event:&lt;/b&gt;&lt;br&gt;
+
+Phase 1:&lt;br&gt;
+1.	To participate in this Round the interested teams are requested to send their details at brandsome.infotsav16@gmail.com &lt;br&gt;
+2.	It is an online elimination phase. The participants have to send their print advertisement (poster) and if you are able to send audio or video advertisement at brandsome.infotsav16@gmail.com . Keep in your mind that the printed advertisement is indispensable.&lt;br&gt;
+3.	If you are fortunate enough to get through to first round you are eligible for phase2.&lt;br&gt;
+4.	Result will be published on our Facebook page and the selected teams will be intimated through mail.&lt;br&gt;
+ &lt;br&gt;
+Phase 2:&lt;br&gt;
+1.	Top teams of Phase 1 will be called for Phase 2 which is on campus round and will held during INFOTSAV 2K16&lt;br&gt; 
+2.	In this phase you would be given a domain and you have to prepare printed advertisement and presentation on the same and present your product to our judges.&lt;br&gt;
+3.	The domains will be provided after the declaration of Phase 1 result. &lt;br&gt;
+4.	To participate in round 2 the teams should register physically at ABV-IIITM.&lt;br&gt;
+        &lt;br&gt; Phase 3:&lt;br&gt;
+
+	 In this phase, we will give you a topic and you have to prepare your brand and presentation for the same, after this you have to present your brand and presentation, and you can play skit which will  describe your brand also.&lt;/br&gt;&lt;/br&gt; 
+
 Rules and Regulations:&lt;br&gt;
 The maximum size of a team is three.&lt;br&gt;
 The number of teams that would be shortlisted for second phase will depend on the number of teams in the first phase.&lt;br&gt;
@@ -683,10 +694,8 @@ Teams participating without any unique id’s will not be judged.&lt;br&gt;
 The print advertisements should be targeting newspapers and magazines.&lt;br&gt;
 Once all submissions have been received, the judging and public voting phases for the competition will begin.&lt;br&gt;
 Entries not adhering to the rules and criteria may be excluded from the competition, at the discretion of the jury. The jury’s decision is final and there is no appeal.&lt;br&gt;
-In case of any discrepancy the organizers decisions will be final and no appeal from the participants will be entertained.
-. 	Copyright and patents:&lt;br&gt;
-Submitted advertisement must be an original, unpublished work.&lt;br&gt;
-The entrant is responsible for the contents of the advertisement which cannot include copyright protected material. The entrant must have the rights for all the texts and images used in the submitted work. &lt;br&gt;
+In case of any discrepancy the organizers decisions will be final and no appeal from the participants will be entertained.&lt;br&gt;
+
 </RULES>
 
 		<TIMELINE>
@@ -787,18 +796,18 @@ class="phone"&gt;E-mail: &lt;/span&gt;akhilagarwal61@gmail.com
 		<TITLE>Smart Cities</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>smartcities.jpg</IMAGE>
-		<DESCRIPTION>&lt;br&gt;Smart Cities allows participants to develop solutions for cities to improve their condition by submitting their ideas for products or services that improve the lifestyle of citizens and provide them a way to match the growth rate of towns and developed cities.
+		<DESCRIPTION>&lt;br&gt;Smart Cities allows participants to develop solutions for cities to improve their condition by submitting their ideas for products or services that improve the lifestyle of citizens and provide them a way to match the growth rate of developed cities.
 <!-- Prizes worth Rs 15000 + internship opportunity by CollegeFever to be won. &lt;/b&gt; -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.13,000&lt;/li&gt;&lt;/b&gt;&lt;/p&gt;-->
 		</DESCRIPTION>
 		<RULES>&lt;br&gt;
-			Round1:It is an online submission round. You are required to prepare a ppt/abstract in 3 pages and mail it to the address given below before the stipulated deadline. The plan should clearly bring out the likely problems and solutions to the recommendations given by the teams. The PPT presentation should be mailed by oct 20 2016.
+			Round1:It is an online submission round. You are required to prepare a ppt/abstract in 3 pages and mail it to the address given below before the stipulated deadline. The plan should clearly bring out the likely problems and solutions to the recommendations given by the teams. The PPT presentation should be mailed by oct 25 2016.
 Our team will give a feedback on your presentation and participants should make the necessary changes according to the feedback and resend the PPT to our mail. The final PPT presentation must be mailed by 05 Nov 2016.
 &lt;br&gt;
 Round2:Shortlisted teams from Round 1 would be invited to the ABV-IIITM, Gwalior campus for a proper presentation.
 &lt;br&gt;
 Notice:&lt;br&gt;
-This competition is open to all students. Each team can comprise of a maximum of three members and should be from the same institute.The teams need to send their entries to smartcities@infotsav.com with the subject line and document name as smatCities2K16_Teamname_Collegename.&lt;br&gt;
+This competition is open to all students. Each team can comprise of a maximum of three members and should be from the same institute.The teams need to send their entries to smartcities.infotsav2k16@gmail.com with the subject line and document name as smatCities2K16_Teamname_Collegename.&lt;br&gt;
 The body of the mail should contain the names of the team members,Course name, email Id and contact numbers.Register for the event by clicking on the link provided on the website for the same. The proposal should be in the pdf format.The decisions of the organizers and the panel of judges will be final and binding on all the participants.&lt;br&gt;
 </RULES>
 
@@ -817,7 +826,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;anshuljain614@gmail.com
 
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
-&lt;h4&gt;Bandra Ajay Kumar&lt;/h4&gt;
+&lt;h4&gt;Bandru Ajay Kumar&lt;/h4&gt;
 &lt;p&gt;
 &lt;span
 class="phone"&gt;Phone: &lt;/span&gt;+91-7697674804&lt;/br&gt;
@@ -1459,13 +1468,23 @@ Time: 2 hr &lt;/br&gt;
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/analyst.pdf' target='_blank'&gt;Analyst Details&lt;/a&gt;&lt;/li&gt;
 		&lt;li&gt;&lt;a href='downloads/Analyst_Case.pdf' target='_blank'&gt;Analyst Case for Phase 1&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
-		<CONTACTS>&lt;h4&gt;AKHILESH PUJARI
+		<CONTACTS>&lt;h4&gt;ASHRITHA CHERLAPPALLY
  &lt;/h4&gt;
                                                     &lt;p&gt;
                                                         &lt;span
-class="phone"&gt;Phone:+91-8989529628 &lt;/span&gt;&lt;/br&gt;
+class="phone"&gt;Phone:+91-9977068282 &lt;/span&gt;&lt;/br&gt;
                                                         &lt;span
-class="phone"&gt;E-mail:unishubh1@gmail.com &lt;/span&gt;
+class="phone"&gt;E-mail:gunny10896@gmail.com &lt;/span&gt;
+                                                    &lt;/p&gt;
+                                                    &lt;/br&gt;
+
+&lt;h4&gt;D.SANJANA REDDY
+ &lt;/h4&gt;
+                                                    &lt;p&gt;
+                                                        &lt;span
+class="phone"&gt;Phone:+91-8965984337 &lt;/span&gt;&lt;/br&gt;
+                                                        &lt;span
+class="phone"&gt;E-mail:sanjanadasari3@gmail.com &lt;/span&gt;
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
 
@@ -1619,7 +1638,7 @@ Time: 2 hr &lt;/br&gt;
                                                         &lt;span
 class="phone"&gt;Phone:+91-8225081628&lt;/span&gt;&lt;/br&gt;
                                                         &lt;span
-class="phone"&gt;E-mail:unishubh1@gmail.com&lt;/span&gt;
+class="phone"&gt;E-mail:shubham290696@gmail.com&lt;/span&gt;
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
 &lt;h4&gt;KRITI SINGHAL
@@ -1652,16 +1671,19 @@ Events like anime trivia, guess the character ad show, anime riddles and many ot
 1.	Qualifying Round- Each team would be given a set of question paper containing multiple choice objective type questions. This round will be pen paper based round . 15 teams will qualify for the next round. &lt;/br&gt;
 Time: 45 minutes &lt;/br&gt;
 
-2.	Elimination Round –This will be PPT based round. Only 5 teams would be selected for Elimination Round. &lt;/br&gt;
+2.	Elimination Round –This will be rapid fire round. Only 5 teams would be selected for Elimination Round. &lt;/br&gt;
 Time: 1 hr &lt;/br&gt;
 
-3.	Final Round – Top 5 teams will meet in this final round which consists of three sub-rounds. These sub-rounds are listed below. &lt;/br&gt;
-Time: 2 hr &lt;/br&gt;
+3.	Final Round – Top 5 teams will meet in this final round whose format will be similar to famous T.V show 'jeopardy' &lt;/br&gt;
+Time: 1 hr &lt;/br&gt;
+
 </RULES>
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt;
+Elimination Round: Day 1 of Infotsav &lt;/br&gt;
+Final Round: Day 2 of Infotsav  &lt;/br&gt;
+
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/enigma.pdf' target='_blank'&gt;Enigma Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
