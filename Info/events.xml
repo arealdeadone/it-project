@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <EVENTLIST>
-	<EVENT>	
+	<EVENT>
 		<ID>0</ID>
-		<BACKGROUND>FuckingNoobs.jpg</BACKGROUND>	
+		<BACKGROUND>FuckingNoobs.jpg</BACKGROUND>
 		<TITLE>Bug Spot</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>bugspot.jpg</IMAGE>
-		<DESCRIPTION>Bug spot, the on-spot debugging contest is not only about programming talent but also about applying the sheer knowledge to rectify errors. The challenge tests a programmer's ability to understand and respond to dissimilar codes. The art of rectification / debugging is difficult than conventional programming because it's not about what you know, it's about how much you know and how you apply those cognitive ideas to recognize errors and act upon them. The event tests the programmer in areas of speed, intellect and understanding. 
+		<DESCRIPTION>Bug spot, the on-spot debugging contest is not only about programming talent but also about applying the sheer knowledge to rectify errors. The challenge tests a programmer's ability to understand and respond to dissimilar codes. The art of rectification / debugging is difficult than conventional programming because it's not about what you know, it's about how much you know and how you apply those cognitive ideas to recognize errors and act upon them. The event tests the programmer in areas of speed, intellect and understanding.
 		<!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 12000 to be won  &lt;/b&gt; -->
-		</DESCRIPTION>	
+		</DESCRIPTION>
 		<RULES>Programming languages used will be C and Java.&lt;br&gt;
 A group can have maximum of 3 members.&lt;br&gt;
 Rounds&lt;br&gt;
 1st ROUND- Will consist of 50 MCQs related to basic programming knowledge, duration of which will be 1 hour. &lt;br&gt;
 2nd ROUND- Will consist of Maximum 10 Subjective debugging questions, where participants have to spot the Bug and suggest a solution.&lt;br&gt;
 In case of any discrepancy, decision of event organizers will be final.</RULES>
-		<TIMELINE> 
-			&lt; Coming Soon /&gt; 
+		<TIMELINE>
+			&lt; Coming Soon /&gt;
 		</TIMELINE>
 
 
@@ -37,7 +37,7 @@ In case of any discrepancy, decision of event organizers will be final.</RULES>
 				&lt;span class="phone"&gt;E-mail: &lt;/span&gt;
 			&lt;/p&gt;
 			&lt;/br&gt;
-			
+
 			&lt;h4&gt;Ravi Chandra&lt;/h4&gt;
 			&lt;p&gt;
 				&lt;span class="phone"&gt;Phone: &lt;/span&gt;+91-9425780379
@@ -49,7 +49,7 @@ In case of any discrepancy, decision of event organizers will be final.</RULES>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
 
-	<EVENT>	
+	<EVENT>
 		<ID>1</ID>
 		<BACKGROUND>JPTGTIB1I6.jpg</BACKGROUND>
 		<TITLE>Code Rush</TITLE>
@@ -57,7 +57,7 @@ In case of any discrepancy, decision of event organizers will be final.</RULES>
 		<IMAGE>coderush.jpg</IMAGE>
 		<DESCRIPTION>Do you have the brain of a genius? The online programming contest is here for you. Loose your rationality &amp; let your rusty gears loose, jingle in the disco of grey cells. Show your programming skills and provide the best possible solution you can. So prove yourself on the battlefield and only then you will be a great warrior. After all, life doesn't give a second chance. If you love to code, demystifying the truth or had a knack for unravelling baffling challenges, then this event is best suited for you.
 		<!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 7000 to be won + intern from Internshala.com. &lt;/b&gt; -->
-		</DESCRIPTION>	
+		</DESCRIPTION>
 		<RULES>Please do not discuss strategy, suggestions or tips in the comments during a live contest. Posting questions clarifying the problem statement is ok. If you are unsure, email us at feedback@codechef.com .&lt;br&gt;
 Discussing CodeChef's problems or any aspect of problem, on any other platform on web, on identification, could lead to disabling of respective account and banning from the community.&lt;br&gt;
 Almost all languages supported on CodeChef are allowed.&lt;br&gt;
@@ -72,11 +72,11 @@ The decision of the organizers in declaring the results will be final. No querie
 Any participant found to be indulging in any form of malpractice will be immediately disqualified.</RULES>
 
 		<TIMELINE>
-			&lt; Coming Soon /&gt; 
+			&lt; Coming Soon /&gt;
 		</TIMELINE>
-		
+
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/akraman.pdf' target='_blank'&gt;Akraman Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
-		
+
 		<CONTACTS>
 			&lt;h4&gt;Shivam Sinha&lt;/h4&gt;
 			&lt;p&gt;
@@ -91,7 +91,7 @@ Any participant found to be indulging in any form of malpractice will be immedia
 				&lt;/br&gt;
 				&lt;span class="phone"&gt;E-mail: &lt;/span&gt;
 			&lt;/p&gt;
-			&lt;/br&gt; 
+			&lt;/br&gt;
 
 			&lt;h4&gt;Aditi Agarwal&lt;/h4&gt;
 			&lt;p&gt;
@@ -103,9 +103,9 @@ Any participant found to be indulging in any form of malpractice will be immedia
 		</CONTACTS>
 		<UPDATES></UPDATES>
 	</EVENT>
-	<EVENT>	
+	<EVENT>
 		<ID>2</ID>
-		<BACKGROUND>FuckingNoobs.jpg</BACKGROUND>	
+		<BACKGROUND>FuckingNoobs.jpg</BACKGROUND>
 		<TITLE>Techathlon</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>techathlon.jpg</IMAGE>
@@ -119,10 +119,10 @@ Any participant found to be indulging in any form of malpractice will be immedia
 		<RULES>
 			&lt;/br&gt;1. TECHATHLON consists of 4 open-to-all events.
 			&lt;/br&gt;2. The participants should be the students of any IIIT.
-			
-			
-			
-			
+
+
+
+
 			&lt;/br&gt;3. Every member needs to participate in at least one of the above mentioned events.
 			&lt;/br&gt;4.  No member can be in two TECHATHLON team.
 			&lt;/br&gt;5.  Ties will be dealt with the scores of Code Rush.
@@ -157,7 +157,7 @@ Any participant found to be indulging in any form of malpractice will be immedia
 		        &lt;span class="phone"&gt;E-mail: &lt;/span&gt;anjalimunjal001@gmail.com
 			&lt;/p&gt;
 		    &lt;/br&gt;
-			
+
 			&lt;h4&gt;VISHAKHA CHICHARA&lt;/h4&gt;
 			&lt;p&gt;
 				&lt;span class="phone"&gt;Phone:&lt;/span&gt;+91-8989415465
@@ -165,17 +165,17 @@ Any participant found to be indulging in any form of malpractice will be immedia
 				&lt;span class="phone"&gt;E-mail: &lt;/span&gt;vishakhachichra@gmail.com
 		    &lt;/p&gt;
 		    &lt;/br&gt;
-			
-		        
-			
+
+
+
 
 		</CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
 
-	<EVENT>	
+	<EVENT>
 		<ID>3</ID>
-		<BACKGROUND>U3W2SHOLWQ.jpg</BACKGROUND>	
+		<BACKGROUND>U3W2SHOLWQ.jpg</BACKGROUND>
 		<TITLE>Hackathon</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>hackathon.jpg</IMAGE>
@@ -183,33 +183,33 @@ Any participant found to be indulging in any form of malpractice will be immedia
 			An event in which programmers and developers from
 			around the globe get together and collaboratively design and develop new
 			apps or solutions to real life problems using latest technologies. Learn, apply , innovate and take home a life time experience  of becoming a part of a greater community. Make your mark and get your due recognition in industry.
-		</DESCRIPTION>	
+		</DESCRIPTION>
 		<RULES>&lt;ul&gt;
 				&lt;li&gt;
-All aspects of the Entrant Content must be originally created by and solely owned by you or in the public domain. All third party content and content unoriginal to you (unless it is in the public domain) is prohibited.  
+All aspects of the Entrant Content must be originally created by and solely owned by you or in the public domain. All third party content and content unoriginal to you (unless it is in the public domain) is prohibited.
 &lt;/li&gt;&lt;li&gt;
 Register for the competition simply on infotsav.com
 &lt;/li&gt;&lt;li&gt;
 The Entrant Content must be suitable for presentation in a public forum.
 &lt;/li&gt;&lt;li&gt;
-Students and working professional from different institutes/organizations can come together to form team(s). 
+Students and working professional from different institutes/organizations can come together to form team(s).
  &lt;/li&gt;&lt;li&gt;
-Any identified act of plagiarism will be immediately disqualified.  
+Any identified act of plagiarism will be immediately disqualified.
  &lt;/li&gt;&lt;li&gt;
-The teams should strictly adhere to the deadlines mentioned. 
+The teams should strictly adhere to the deadlines mentioned.
  &lt;/li&gt;&lt;li&gt;
-The decision of the judges and organizers will be final and binding to all the participants. 
+The decision of the judges and organizers will be final and binding to all the participants.
  &lt;/li&gt;&lt;li&gt;
-Any of the terms and conditions can be changed by the organizers anytime ensuring to give the participants appropriate time to respond to the changes. 
+Any of the terms and conditions can be changed by the organizers anytime ensuring to give the participants appropriate time to respond to the changes.
 &lt;/li&gt;&lt;li&gt;
-Participants will be judged on their Innovation and Creativity. 
+Participants will be judged on their Innovation and Creativity.
 &lt;/li&gt;&lt;li&gt;
 Participants need to register to the event. Theme of the contest will be announced 10 days prior to fest. Participants need to work on the clip and present it.&lt;/li&gt;
 &lt;/ul&gt;</RULES>
 
 		<TIMELINE>
 
-		&lt; Coming Soon /&gt; 
+		&lt; Coming Soon /&gt;
 
 		</TIMELINE>
 
@@ -221,7 +221,7 @@ Participants need to register to the event. Theme of the contest will be announc
                 &lt;spanclass="phone"&gt;E-mail: &lt;/span&gt;amar.prakash196@gmail.com
             &lt;/p&gt;
             &lt;/br&gt;
-			
+
 			&lt;h4&gt;Akshit Agarwal &lt;/h4&gt;
 			&lt;p&gt;
 				&lt;span class="phone"&gt;Phone:&lt;/span&gt;+91-898913227
@@ -241,15 +241,15 @@ Participants need to register to the event. Theme of the contest will be announc
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
 
-	<EVENT>	
-		<ID>4</ID>	
+	<EVENT>
+		<ID>4</ID>
 		<BACKGROUND>U3W2SHOLWQ.jpg</BACKGROUND>
 		<TITLE>S.C.R.U.D.</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>scrud.jpg</IMAGE>
 		<DESCRIPTION>The main purpose of coding has always been formulating a product to serve a purpose helpful for mankind.  Show your vision, apply your logics, type in your code and formulate a product pertaining to the given theme. Choose any platform from web, desktop software or android,  and make an efficient product. You will be judged on the basis of robustness, creativity, time and memory complexity. &lt;/br&gt;
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 12000 to be won  &lt;/b&gt; -->
-</DESCRIPTION>	
+</DESCRIPTION>
 <RULES>
 1.	Maximum Team size allowed: 3. &lt;/br&gt;
 2.	The event will take place in 2 Rounds. &lt;/br&gt;
@@ -306,8 +306,8 @@ class="phone"&gt;E-mail:&lt;/span&gt;evi.agarwal@gmail.com
 </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-		<ID>5</ID>	
+	<EVENT>
+		<ID>5</ID>
 		<BACKGROUND>FuckingNoobs.jpg</BACKGROUND>
 		<TITLE>Algo Writing</TITLE>
 		<TAGLINE></TAGLINE>
@@ -317,14 +317,14 @@ class="phone"&gt;E-mail:&lt;/span&gt;evi.agarwal@gmail.com
 		<DESCRIPTION>An event to test the participants' problem solving and algorithm designing skills. Particpants will be given some problems and will be required to give a pseudo code containing step by step operations to be performed to solve that problem.
 		You shall be judged on the basis of time  and space complexity of the algorithm you prosed.
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 12000 to be won  &lt;/b&gt; -->
-</DESCRIPTION>	
+</DESCRIPTION>
 		<RULES>Coming Soon
 </RULES>
 
 
 <TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 
@@ -355,10 +355,10 @@ class="phone"&gt;E-mail: &lt;/span&gt;vishakhachichra@gmail.com
 </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	
-	
-	<EVENT>	
-		<ID>6</ID>	
+
+
+	<EVENT>
+		<ID>6</ID>
 		<BACKGROUND>FuckingNoobs.jpg</BACKGROUND>
 		<TITLE>Jobs</TITLE>
 		<TAGLINE></TAGLINE>
@@ -367,10 +367,10 @@ class="phone"&gt;E-mail: &lt;/span&gt;vishakhachichra@gmail.com
 		<DESCRIPTION> A good campus placement is every graduate’s deepest desire. But one needs to be fully prepared to face the toughest of the challenges that company poses to the candidates before recruiting their best fit. Therefore it becomes essential that the job seekers have sufficient knowledge and are well prepared for facing any test and interview. If they get job in their chosen and interested field, that will be a turning point in their life career. Only the best of the best get the chance of grabbing the jobs.
 "JOBS" essentially focuses on preparing its participants for the campus placements at the same time ensures that the event as a whole is fun and exciting. It stimulates an environment of campus placements.
 
-<!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 9000 to be won.  &lt;/b&gt; --> 
+<!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 9000 to be won.  &lt;/b&gt; -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
- 
-</DESCRIPTION>	
+
+</DESCRIPTION>
 		<RULES>1.	There will be three on-campus rounds for the event. Rounds shall proceed parallel for candidates with technical and managerial background.&lt;/br&gt;
 2.	Round 1: will be an MCQ round. Which contains aptitude and Technical/Managerial (whichever applicable) questions to test the basic knowledge of the candidates. There will be negative marking for incorrect response in this round.&lt;/br&gt;
 3.	Round 2: candidates qualifying for this round will get to face a descriptive round of 40 minutes in which they will be tested for their depth of knowledge and their hold on the basics. Technical and Managerial students to get separate questions.&lt;/br&gt;
@@ -383,7 +383,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;vishakhachichra@gmail.com
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/jobbureau.pdf' target='_blank'&gt;Job Bureau Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
@@ -404,21 +404,21 @@ class="phone"&gt;Phone: &lt;/span&gt;+91-9407487312&lt;/br&gt;
 class="phone"&gt;E-mail: &lt;/span&gt;shrutiag95@gmail.com
 
                                                     &lt;/p&gt;
-                                                    &lt;/br&gt;     
+                                                    &lt;/br&gt;
 													</CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
+	<EVENT>
 		<ID>7</ID>
-		<BACKGROUND>997348-code.jpg</BACKGROUND>	
+		<BACKGROUND>997348-code.jpg</BACKGROUND>
 		<TITLE>Code Stumble</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>codestumble.jpg</IMAGE>
-		<DESCRIPTION>An amalgamation of coding and reverse engineering skills.  A two phase event which requires you to write a code as complex as you can, satisfying a given problem statement and in the next phase look at similar codes of your opponents and guess their problem statements. Make it tough for others to understand your code in first phase ; understand the gist of other’s code in minimum time and maximize your chances of winning. 
+		<DESCRIPTION>An amalgamation of coding and reverse engineering skills.  A two phase event which requires you to write a code as complex as you can, satisfying a given problem statement and in the next phase look at similar codes of your opponents and guess their problem statements. Make it tough for others to understand your code in first phase ; understand the gist of other’s code in minimum time and maximize your chances of winning.
 <!-- lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 9000 to be won.  &lt;/b&gt;  -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
- 
-</DESCRIPTION>	
+
+</DESCRIPTION>
 		<RULES>&lt;ul&gt;
 	&lt;li&gt;
 			1. Event Structure:
@@ -493,12 +493,12 @@ class="phone"&gt;Phone: &lt;/span&gt;+91-9530445348&lt;/br&gt;
 class="phone"&gt;E-mail: &lt;/span&gt;sachinsharma.sharma2691998@gmail.com
 
                                                     &lt;/p&gt;
-                                                    &lt;/br&gt;                                                         
+                                                    &lt;/br&gt;
 													</CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-		<ID>8</ID>	
+	<EVENT>
+		<ID>8</ID>
 		<BACKGROUND>quang-cao-hay-khong-quang-cao-de-ban-san-pham-tot-hon-large.jpg</BACKGROUND>
 		<TITLE>Sameeksha</TITLE>
 		<TAGLINE></TAGLINE>
@@ -516,8 +516,8 @@ Present your ideas which cover the application for technology and
 management disciplines.
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 9000 to be won.  &lt;/b&gt;  -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
- 
-</DESCRIPTION>	
+
+</DESCRIPTION>
 		<RULES>&lt;br&gt;
 			The rules governing the competition are as follows:
 &lt;br&gt;
@@ -529,7 +529,7 @@ management disciplines.
 2. Maximum number of participants in a Team is 4.
 &lt;/li&gt;
 &lt;li&gt;
-3. The topics that the papers need to be based on are suggestive. It is advisable that the presentation focuses on one particular topic. 
+3. The topics that the papers need to be based on are suggestive. It is advisable that the presentation focuses on one particular topic.
 &lt;/li&gt;
 &lt;li&gt;
 4. Abstract should not exceed 150-300 words and the whole Paper should not exceed 20 pages.
@@ -566,7 +566,7 @@ management disciplines.
     &lt;br&gt; a. Title- theme of the paper
      &lt;br&gt;b. Name of both the authors (with Institute’s name)
      &lt;br&gt;c. Contact no. of both the authors
-     &lt;br&gt;d. E- Mail ID 
+     &lt;br&gt;d. E- Mail ID
 &lt;/li&gt;
 &lt;li&gt;
 14. Last day to submit soft copy of your report (via e-mail) will be seven days prior to the day of presentation.
@@ -575,7 +575,7 @@ management disciplines.
 15. After you have submitted the soft copy, a panel of judges will go through your material and if you are shortlisted to give the presentation, you will be notified.
 &lt;/li&gt;
 &lt;li&gt;
-16. The abstract mail should contain abstract, references, your e-mail id and mobile number. 
+16. The abstract mail should contain abstract, references, your e-mail id and mobile number.
 &lt;/li&gt;
 &lt;li&gt;
 17. The decision of judges will be final and no arguments or appeal will be entertained.
@@ -585,7 +585,7 @@ management disciplines.
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/jobbureau.pdf' target='_blank'&gt;Job Bureau Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
@@ -619,13 +619,13 @@ class="phone"&gt;Phone: &lt;/span&gt;+91-8458992188&lt;/br&gt;
 class="phone"&gt;E-mail: &lt;/span&gt;singhalankur95@gmail.com
 
                                                     &lt;/p&gt;
-                                                    &lt;/br&gt;                                                         
+                                                    &lt;/br&gt;
 													</CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
 
-	<EVENT>	
-		<ID>9</ID>	
+	<EVENT>
+		<ID>9</ID>
 		<BACKGROUND>ANI_1267.jpg</BACKGROUND>
 		<TITLE>Brandsome</TITLE>
 		<TAGLINE></TAGLINE>
@@ -635,7 +635,7 @@ Brandsome is an advertising contest in which any hypothetical product is adverti
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 15000 + internship opportunity by CollegeFever to be won. &lt;/b&gt;  -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
-		</DESCRIPTION>	
+		</DESCRIPTION>
 		<RULES>Technical requirements:&lt;br&gt;
 Image submissions should meet the following requirements: &lt;br&gt;
 Colored&lt;br&gt;
@@ -661,7 +661,7 @@ The entrant is responsible for the contents of the advertisement which cannot in
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/forex
@@ -693,14 +693,14 @@ class="phone"&gt;E-mail: &lt;/span&gt;shivanimandeliya@gmail.com
                                                     &lt;/br&gt;</CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-		<ID>10</ID>	
+	<EVENT>
+		<ID>10</ID>
 		<BACKGROUND>O717S80.jpg</BACKGROUND>
 		<TITLE>Pinnacle</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>pinnacle.jpg</IMAGE>
-		<DESCRIPTION>If you have a unique idea that carves you out as a successful entrepreneur, then we welcome you to the most appreciated event of Infotsav. It provides your idea, a platform and eventually a spark just sufficient to ignite you. So what are you waiting for? It's show time. Pinnacle is the flagship event of Infotsav'16. The event is attracting students from the best B-schools and Engineering colleges around the country.</DESCRIPTION>	
-		
+		<DESCRIPTION>If you have a unique idea that carves you out as a successful entrepreneur, then we welcome you to the most appreciated event of Infotsav. It provides your idea, a platform and eventually a spark just sufficient to ignite you. So what are you waiting for? It's show time. Pinnacle is the flagship event of Infotsav'16. The event is attracting students from the best B-schools and Engineering colleges around the country.</DESCRIPTION>
+
 		<RULES>
 • There is no registration fee.&lt;/br&gt;
 • Executive Summary and all other documents/queries to be sent to pinnacle@infotsav.com&lt;/br&gt;
@@ -715,7 +715,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;shivanimandeliya@gmail.com
 
 		<TIMELINE>
 
-• Last date for submission: 20th September 2016.&lt;/br&gt;
+• Last date for submission: 25th October 2016.&lt;/br&gt;
 • Entries submitted after the deadlines will not be considered.&lt;/br&gt;
 • The Executive Summary will be submitted online in the PDF format only.&lt;/br&gt;
 • The PDF file can have a maximum of five pages excluding the cover page.&lt;/br&gt;
@@ -751,19 +751,19 @@ class="phone"&gt;E-mail: &lt;/span&gt;akhilagarwal61@gmail.com
                                                     &lt;/br&gt;</CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-				<ID>11</ID>	
+	<EVENT>
+				<ID>11</ID>
 				<BACKGROUND>Smart-Cities-All-you-need-to-know.jpg</BACKGROUND>
 		<TITLE>Smart Cities</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>smartcities.jpg</IMAGE>
-		<DESCRIPTION>Smart Cities allows participants to develop solutions for villages to improve their condition by submitting their ideas for products or services that improve the lifestyle of villagers and provide them a way to match the growth rate of towns and cities.
+		<DESCRIPTION>Smart Cities allows participants to develop solutions for cities to improve their condition by submitting their ideas for products or services that improve the lifestyle of citizens and provide them a way to match the growth rate of towns and developed cities.
 <!-- Prizes worth Rs 15000 + internship opportunity by CollegeFever to be won. &lt;/b&gt; -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.13,000&lt;/li&gt;&lt;/b&gt;&lt;/p&gt;-->
-		</DESCRIPTION>	
+		</DESCRIPTION>
 		<RULES>&lt;br&gt;
 			Round1:It is an online submission round. You are required to prepare a ppt/abstract in 3 pages and mail it to the address given below before the stipulated deadline. The plan should clearly bring out the likely problems and solutions to the recommendations given by the teams. The PPT presentation should be mailed by oct 20 2016.
-Our team will give a feedback on your presentation and participants should make the necessary changes according to the feedback and resend the PPT to our mail. The final PPT presentation must be mailed by 30 oct 2016.
+Our team will give a feedback on your presentation and participants should make the necessary changes according to the feedback and resend the PPT to our mail. The final PPT presentation must be mailed by 05 Nov 2016.
 &lt;br&gt;
 Round2:Shortlisted teams from Round 1 would be invited to the ABV-IIITM, Gwalior campus for a proper presentation.
 &lt;br&gt;
@@ -774,7 +774,7 @@ The body of the mail should contain the names of the team members,Course name, e
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/sameeksha.pdf' target='_blank'&gt;Sameeksha Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
@@ -784,7 +784,7 @@ The body of the mail should contain the names of the team members,Course name, e
 class="phone"&gt;Phone: &lt;/span&gt;+91-7898135525&lt;/br&gt;
                                                         &lt;span
 class="phone"&gt;E-mail: &lt;/span&gt;anshuljain614@gmail.com
-	
+
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
 &lt;h4&gt;Bandra Ajay Kumar&lt;/h4&gt;
@@ -806,13 +806,13 @@ class="phone"&gt;E-mail: &lt;/span&gt;nikitachilivery@gmail.com
 
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
-													
-             
+
+
 			</CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-		<ID>12</ID>	
+	<EVENT>
+		<ID>12</ID>
 		<BACKGROUND>FuckingNoobs.jpg</BACKGROUND>
 		<TITLE>ITW</TITLE>
 		<TAGLINE></TAGLINE>
@@ -820,13 +820,13 @@ class="phone"&gt;E-mail: &lt;/span&gt;nikitachilivery@gmail.com
 		<DESCRIPTION>Waste management stands as one of the most debated political and environmental agendas. The ingredient demanded for the task to be accomplished is innovation, an idea to convert anything that can be regarded as waste into something that is creative and cool. The event aims at providing the knowledgeable youth an opportunity, to apply the existing technologies to transform 'waste to worthy'.
 <!-- Prizes worth Rs 15000+ internship opportunity by CollegeFever to be won. &lt;/b&gt; -->
 		<!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : &lt;/li&gt;&lt;/b&gt;-->
-		</DESCRIPTION>	
+		</DESCRIPTION>
 		<RULES>Coming Soon
 </RULES>
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/codeweavers.pdf' target='_blank'&gt;Code Weavers Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
@@ -835,7 +835,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;nikitachilivery@gmail.com
                                                         &lt;span
 class="phone"&gt;Phone: &lt;/span&gt;+91-9981326751&lt;/br&gt;
                                                         &lt;span
-class="phone"&gt;E-mail: &lt;/span&gt;sutharm767@gmail.com 
+class="phone"&gt;E-mail: &lt;/span&gt;sutharm767@gmail.com
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
 &lt;h4&gt;Amit Meena&lt;/h4&gt;
@@ -850,9 +850,9 @@ class="phone"&gt;E-mail: &lt;/span&gt;unishubh1@gmail.com
 </CONTACTS>
 		<UPDATES></UPDATES>
 	</EVENT>
-	
-<EVENT>	
-		<ID>13</ID>	
+
+<EVENT>
+		<ID>13</ID>
 		<BACKGROUND>41..jpg</BACKGROUND>
 		<TITLE>FOREX</TITLE>
 		<TAGLINE></TAGLINE>
@@ -866,13 +866,13 @@ the invaluable hand on experience.
 &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Visit: forex.infotsav.com &lt;/b&gt; -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : First Prize-Rs.4000&lt;/li&gt;&lt;/b&gt;
 &lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Second Prize-Rs.2000&lt;/li&gt;&lt;/b&gt;-->
-		</DESCRIPTION>	
+		</DESCRIPTION>
 		<RULES>Coming Soon
 </RULES>
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/webmania.pdf' target='_blank'&gt;Web Mania Details&lt;/a&gt;&lt;/li&gt;
@@ -887,15 +887,15 @@ class="phone"&gt;E-mail: &lt;/span&gt;sinhashivam04@gmail.com
 
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
-                                                    
+
 
 
 
 		</CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-		<ID>14</ID>	
+	<EVENT>
+		<ID>14</ID>
 		<BACKGROUND>FuckingNoobs.jpg</BACKGROUND>
 		<TITLE>Job Bureau</TITLE>
 		<TAGLINE></TAGLINE>
@@ -907,16 +907,16 @@ where you learn to be an efficient project leader and a skilled coder. The simul
 you into the flock of assignments where you move ahead by gaining experience and money.
 The game checks your skills at choosing the right project at the right time, a single wrong
 move could forestall your winning chances.
-&lt;/br&gt;<!-- 
+&lt;/br&gt;<!--
 &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 9000 to be won. &lt;/b&gt; -->
 
-</DESCRIPTION>	
+</DESCRIPTION>
 		<RULES>Coming Soon
 </RULES>
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/La-Ingenious.pdf' target='_blank'&gt;La Ingenious Details&lt;/a&gt;&lt;/li&gt;
@@ -931,12 +931,12 @@ class="phone"&gt;E-mail: &lt;/span&gt;anshuljain614@gmail.com
 
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
-                                                    
+
 			</CONTACTS>
 		<UPDATES></UPDATES>
 	</EVENT>
-	<EVENT>	
-		<ID>15</ID>	
+	<EVENT>
+		<ID>15</ID>
 		<BACKGROUND>FuckingNoobs.jpg</BACKGROUND>
 		<TITLE>Trove Trace</TITLE>
 		<TAGLINE>Online Treasure Hunt</TAGLINE>
@@ -951,14 +951,14 @@ your brains out, and a monstrous amount of fun.
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 9000 to be won. &lt;/b&gt; -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
- 
-</DESCRIPTION>	
+
+</DESCRIPTION>
 		<RULES>Coming Soon
 </RULES>
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/trovetrace.pdf' target='_blank'&gt;Trove Trace Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
@@ -972,13 +972,13 @@ class="phone"&gt;E-mail: &lt;/span&gt;@gmail.com
 
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
-                                                    
-                                                    
+
+
 </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-		<ID>16</ID>	
+	<EVENT>
+		<ID>16</ID>
 		<BACKGROUND>FuckingNoobs.jpg</BACKGROUND>
 		<TITLE>Snap Trap</TITLE>
 		<TAGLINE>Online Treasure Hunt</TAGLINE>
@@ -987,14 +987,14 @@ class="phone"&gt;E-mail: &lt;/span&gt;@gmail.com
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 9000 to be won. &lt;/b&gt; -->
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
- 
-</DESCRIPTION>	
+
+</DESCRIPTION>
 		<RULES>Coming Soon
 </RULES>
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/trovetrace.pdf' target='_blank'&gt;Trove Trace Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
@@ -1007,23 +1007,23 @@ class="phone"&gt;Phone: &lt;/span&gt;&lt;/br&gt;
 class="phone"&gt;E-mail: &lt;/span&gt;
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
-                                                    
+
 </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-		<ID>17</ID>	
+	<EVENT>
+		<ID>17</ID>
 		<BACKGROUND>CSGO-tournament-large.jpg</BACKGROUND>
 		<TITLE>CS Go</TITLE>
 		<TAGLINE></TAGLINE>
 
 		<IMAGE>csgo.jpg</IMAGE>
 
-		<DESCRIPTION>Gamiacs is a blend of three most enthusiastically played games --Counter Strike 1.6, NFS MW and FIFA. 
-Reload your guns and lace up your lucky boots because the biggest LAN gaming event of India is back. The stakes are high this time so head for the battle field, vanquish your enemy and show your might with the controller. With battle cries in the air and courage in your hearts, get ready for the kill. 
+		<DESCRIPTION>Gamiacs is a blend of three most enthusiastically played games --Counter Strike 1.6, NFS MW and FIFA.
+Reload your guns and lace up your lucky boots because the biggest LAN gaming event of India is back. The stakes are high this time so head for the battle field, vanquish your enemy and show your might with the controller. With battle cries in the air and courage in your hearts, get ready for the kill.
 
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;&lt;/p&gt;-->
-		</DESCRIPTION>	
+		</DESCRIPTION>
 		<RULES>Coming Soon
 </RULES>
 
@@ -1043,20 +1043,20 @@ class="phone"&gt;E-mail: &lt;/span&gt;archit2693@gmail.com
 </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	
-	<EVENT>	
-		<ID>18</ID>	
+
+	<EVENT>
+		<ID>18</ID>
 		<BACKGROUND>maxresdefault.jpg</BACKGROUND>
 		<TITLE>COURSE CHASER</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>coursechaser.jpg</IMAGE>
 		<DESCRIPTION>
-		The line follower will basically be an event in which participants will have to compete with their line following robots in the given arena and beat their respective opponents in terms of speed and time limits. This basic robot has to follow the black line on the background, taking the right turns. The follower has to complete the race without losing the line. Each team gets one chance, and the team which finishes the race accurately in the least time wins.   
+		The line follower will basically be an event in which participants will have to compete with their line following robots in the given arena and beat their respective opponents in terms of speed and time limits. This basic robot has to follow the black line on the background, taking the right turns. The follower has to complete the race without losing the line. Each team gets one chance, and the team which finishes the race accurately in the least time wins.
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 11000 to be won. &lt;/b&gt; -->
 		&lt;/br&gt;
 		<!-- &lt;b&gt;Objective: &lt;/b&gt;
 		Make a black line following robot. The time taken by the bot to traverse through the course will be one of the concrete criteria for determining the winner. The lesser the time taken the better the points gained by the bot.  If nobody finish the run, the farthest one run on tracks with maximum points will win.   -->
-        </DESCRIPTION>	
+        </DESCRIPTION>
 		<RULES>1.	A team can have 2 - 4 members, out of which maximum of 1 can be allowed in the arena.&lt;/br&gt;
 2.	The event will be conducted in two level, and top 10 teams in the leader board will be eligible for the final round.&lt;/br&gt;
 3.	Once a robot has crossed the starting line it must remain fully autonomous, or it will be disqualified.&lt;/br&gt;
@@ -1072,7 +1072,7 @@ All efforts must be made to protect battery terminals from a direct short and ca
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;b&gt; Tracks &lt;/b&gt; To be uploaded soon..</DOWNLOADS>
@@ -1125,13 +1125,13 @@ class="phone"&gt;Phone: &lt;/span&gt;+91-9893116203&lt;/br&gt;
 class="phone"&gt;E-mail: &lt;/span&gt;suruchiarya30@gmail.com
 
                                                     &lt;/p&gt;
-                                                    &lt;/br&gt;                                                    
-													
+                                                    &lt;/br&gt;
+
 </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-		<ID>19</ID>	
+	<EVENT>
+		<ID>19</ID>
 		<BACKGROUND>ANI_1142new.jpg</BACKGROUND>
 		<TITLE>BLAZING WHEELS</TITLE>
 		<TAGLINE></TAGLINE>
@@ -1144,8 +1144,8 @@ class="phone"&gt;E-mail: &lt;/span&gt;suruchiarya30@gmail.com
 		&lt;/br&gt;
 		<!-- &lt;b&gt;TASK &lt;/b&gt;
 		Design and construct a remote controlled  (wired/wireless) robot capable not only running fast but also is capable of fighting hurdles on the track in the least time.  -->
-		
-        </DESCRIPTION>	
+
+        </DESCRIPTION>
 		<RULES> &lt;/br&gt;
 			1)	Any team can participate in Blazing Wheels, Infotsav-2k16. A team may consist of 2 to 4 member Participants. These participants can be from same or different institutes. &lt;/br&gt;
 			2)	Team Representative: Each team must specify their Team Representative (Leader) at the time of registration on the website. &lt;/br&gt;
@@ -1162,7 +1162,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;suruchiarya30@gmail.com
 
 		<TIMEINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMEINE>
 		<DOWNLOADS>&lt;b&gt; Tracks &lt;/b&gt; To be uploaded soon..</DOWNLOADS>
@@ -1215,25 +1215,25 @@ class="phone"&gt;Phone: &lt;/span&gt;+91-9893116203&lt;/br&gt;
 class="phone"&gt;E-mail: &lt;/span&gt;suruchiarya30@gmail.com
 
                                                     &lt;/p&gt;
-                                                    &lt;/br&gt;                                                    
-													
+                                                    &lt;/br&gt;
+
 </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
-	</EVENT>	
-	<EVENT>	
-	<ID>20</ID>	
+	</EVENT>
+	<EVENT>
+	<ID>20</ID>
 	<BACKGROUND>ANI_1455.jpg</BACKGROUND>
 		<TITLE>ROBO SOCCER </TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>roboscocer.jpg</IMAGE>
 		<DESCRIPTION>
-		Robo Soccer is a real time arcade game in which each bot is required to put a soccer ball in the desired area just like what happens in the game of football.   
+		Robo Soccer is a real time arcade game in which each bot is required to put a soccer ball in the desired area just like what happens in the game of football.
 <!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 11000 to be won. &lt;/b&gt; -->
 		&lt;/br&gt;
-		
-&lt;br&gt; To build manually controlled robot capable of playing soccer on an arena specially designed for robotic soccer match.  
-		&lt;br&gt; The robot would compete against others in 1-1 matches. 
-        </DESCRIPTION>	
+
+&lt;br&gt; To build manually controlled robot capable of playing soccer on an arena specially designed for robotic soccer match.
+		&lt;br&gt; The robot would compete against others in 1-1 matches.
+        </DESCRIPTION>
 		<RULES>&lt;/br&gt;
 			1)	A team may consist of maximum of 4 members. Students from different institutes may form a team. &lt;/br&gt;
 			2)	Bots are not supposed to carry/hold the ball. &lt;/br&gt;
@@ -1250,7 +1250,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;suruchiarya30@gmail.com
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;b&gt; Tracks &lt;/b&gt; To be uploaded soon..</DOWNLOADS>
@@ -1303,27 +1303,27 @@ class="phone"&gt;Phone: &lt;/span&gt;+91-9893116203&lt;/br&gt;
 class="phone"&gt;E-mail: &lt;/span&gt;suruchiarya30@gmail.com
 
                                                     &lt;/p&gt;
-                                                    &lt;/br&gt;                                                    
-													
+                                                    &lt;/br&gt;
+
 </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-	<ID>21</ID>	
+	<EVENT>
+	<ID>21</ID>
 	<BACKGROUND>ANI_1542.jpg</BACKGROUND>
 		<TITLE>ROBO WAR</TITLE>
 		<TAGLINE></TAGLINE>
 		<IMAGE>robowar.jpg</IMAGE>
 		<DESCRIPTION>
-		Robo Wars is a real-time arcade game in which two opponents would be competing with their manually operated robots with the objective of immobilizing each other. The last robot standing would be the winner.Robo war will be held in two categories,namely :- 
-&lt;br&gt;&lt;br&gt;Robo War - &lt;/b&gt; The bots with weight between 20-40 kgs and size 60cm x 60cm x 80cm are eligible for this category.    
-&lt;br&gt;&lt;br&gt;Mini Robo War - &lt;/b&gt;  The bots with weight less than 20 kgs and size 30cm x 30cm x 30cm are eligible for this category.   
+		Robo Wars is a real-time arcade game in which two opponents would be competing with their manually operated robots with the objective of immobilizing each other. The last robot standing would be the winner.Robo war will be held in two categories,namely :-
+&lt;br&gt;&lt;br&gt;Robo War - &lt;/b&gt; The bots with weight between 20-40 kgs and size 60cm x 60cm x 80cm are eligible for this category.
+&lt;br&gt;&lt;br&gt;Mini Robo War - &lt;/b&gt;  The bots with weight less than 20 kgs and size 30cm x 30cm x 30cm are eligible for this category.
 
-<!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 18000 to be won. &lt;/b&gt; -->  
+<!-- &lt;/br&gt;&lt;/br&gt;&lt;b&gt;Prizes worth Rs 18000 to be won. &lt;/b&gt; -->
 		&lt;/br&gt;
 		&lt;br&gt;
-		Two bots will fight against each other in the arena. Their aim will be to overpower among opponents and throw them out of the arena, drop into the pit made in the arena. It will have fixed time duration.   
-        </DESCRIPTION>	
+		Two bots will fight against each other in the arena. Their aim will be to overpower among opponents and throw them out of the arena, drop into the pit made in the arena. It will have fixed time duration.
+        </DESCRIPTION>
 		<RULES>
 			1)  The bot will be inspected for safety before the event begins. It will be discarded from competition, if found unsafe, for the participants or spectators. &lt;/br&gt;
 			2)The organizers have the right to change any or all of the rules as they deem fit. Changes in rules, if any, will be highlighted on the website. &lt;/br&gt;
@@ -1338,7 +1338,7 @@ class="phone"&gt;E-mail: &lt;/span&gt;suruchiarya30@gmail.com
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;b&gt; Tracks &lt;/b&gt; To be uploaded soon..</DOWNLOADS>
@@ -1391,26 +1391,26 @@ class="phone"&gt;Phone: &lt;/span&gt;+91-9893116203&lt;/br&gt;
 class="phone"&gt;E-mail: &lt;/span&gt;suruchiarya30@gmail.com
 
                                                     &lt;/p&gt;
-                                                    &lt;/br&gt;                                                    
-													
+                                                    &lt;/br&gt;
+
 </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-		<ID>22</ID>	
+	<EVENT>
+		<ID>22</ID>
 		<BACKGROUND>wpid-thumbnail-ee74f6fd8a150ce3cf50c7869376ef08-1050x688.jpg</BACKGROUND>
 		<TITLE>Arthashastra</TITLE>
 		<TAGLINE></TAGLINE>
 
 		<IMAGE>artha.jpg</IMAGE>
 
-		<DESCRIPTION>The  quiz that challenges your brain, firing a volley of questions. Contest consisting of preliminary offline round and mains where the top scoring teams will compete, against the best. 
-		
+		<DESCRIPTION>The  quiz that challenges your brain, firing a volley of questions. Contest consisting of preliminary offline round and mains where the top scoring teams will compete, against the best.
+
 <!--&lt;b&gt;&lt;/br&gt;Prize Money
 &lt;li&gt;First Prize : Rs.4000&lt;/li&gt;
 &lt;li&gt;Second Prize: Rs.2000&lt;/li&gt;&lt;/b&gt;-->
 
-</DESCRIPTION>	
+</DESCRIPTION>
 		<RULES>The Quiz will consist of three rounds:- &lt;/br&gt;
 1.	Qualifying Round- Each team would be given a set of question paper containing multiple choice objective type questions. This round will be pen paper based round . 15 teams will qualify for the next round. &lt;/br&gt;
 Time: 45 minutes &lt;/br&gt;
@@ -1424,7 +1424,7 @@ Time: 2 hr &lt;/br&gt;
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/analyst.pdf' target='_blank'&gt;Analyst Details&lt;/a&gt;&lt;/li&gt;
@@ -1439,27 +1439,27 @@ class="phone"&gt;E-mail:unishubh1@gmail.com &lt;/span&gt;
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
 
-													
+
             </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-		<ID>23</ID>	
+	<EVENT>
+		<ID>23</ID>
 		<BACKGROUND>ANI_1341.jpg</BACKGROUND>
 		<TITLE>Enigma</TITLE>
 		<TAGLINE>The IT Quiz</TAGLINE>
 		<IMAGE>enigma.jpg</IMAGE>
 		<DESCRIPTION>
 			A quiz is usually a form of a student assessment, but has fewer questions of lesser difficulty and requires less time for completion than a test.
-		It is to celebrate this spirit that Infotsav conducts Enigma. Enigma will have a preliminary round of offline quiz and only the top scoring teams will compete in the mains, against the best. 
+		It is to celebrate this spirit that Infotsav conducts Enigma. Enigma will have a preliminary round of offline quiz and only the top scoring teams will compete in the mains, against the best.
 		So brace up yourself to be a part of techno- managerial quiz contest to compete with the best brains of the youth.
-		This is the war of grey cells. So let us watch who meets the target superbly! We need your cooperation to move ahead in taking it to another level and achieve unfathomable level of excellence and popularity. 
-		
+		This is the war of grey cells. So let us watch who meets the target superbly! We need your cooperation to move ahead in taking it to another level and achieve unfathomable level of excellence and popularity.
+
 <!--&lt;b&gt;&lt;/br&gt;Prize Money
 &lt;li&gt;First Prize : Rs.4000&lt;/li&gt;
 &lt;li&gt;Second Prize: Rs.2000&lt;/li&gt;&lt;/b&gt;-->
 
-</DESCRIPTION>	
+</DESCRIPTION>
 		<RULES>The Enigma Quiz will consist of three rounds:-&lt;/br&gt;
 
 1.	Qualifying Round- Each team would be given a set of question paper containing multiple choice objective type. This round will be pen paper based round. 15 teams will qualify for the next round.&lt;/br&gt;
@@ -1475,7 +1475,7 @@ Time: 1 hr&lt;/br&gt;
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/analyst.pdf' target='_blank'&gt;Analyst Details&lt;/a&gt;&lt;/li&gt;
@@ -1496,12 +1496,12 @@ class="phone"&gt;Phone:+91-9479915049&lt;/span&gt;&lt;/br&gt;
 class="phone"&gt;E-mail:191ashish@gmail.com&lt;/span&gt;
                                                  &lt;/p&gt;
                                                     &lt;/br&gt;
-													
+
             </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-<EVENT>	
-		<ID>24</ID>	
+<EVENT>
+		<ID>24</ID>
 		<BACKGROUND>wpid-thumbnail-ee74f6fd8a150ce3cf50c7869376ef08-1050x688.jpg</BACKGROUND>
 		<TITLE>Programmimg</TITLE>
 		<TAGLINE></TAGLINE>
@@ -1510,7 +1510,7 @@ class="phone"&gt;E-mail:191ashish@gmail.com&lt;/span&gt;
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
 
-</DESCRIPTION>	
+</DESCRIPTION>
 		<RULES>The Programming Quiz will consist of three rounds:- &lt;/br&gt;
 1.	Qualifying Round- Each team would be given a set of question paper containing multiple choice objective type questions based on syntax and logical understanding. This round will be pen paper based round . 15 teams will qualify for the next round. &lt;/br&gt;
 Time: 45 minutes &lt;/br&gt;
@@ -1525,7 +1525,7 @@ Time: 2 hr &lt;/br&gt;
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/enigma.pdf' target='_blank'&gt;Enigma Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
@@ -1545,12 +1545,12 @@ class="phone"&gt;Phone:+91-9479915049&lt;/span&gt;&lt;/br&gt;
 class="phone"&gt;E-mail:191ashish@gmail.com&lt;/span&gt;
                                                  &lt;/p&gt;
                                                     &lt;/br&gt;
-													
+
             </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
-	<EVENT>	
-		<ID>25</ID>	
+	<EVENT>
+		<ID>25</ID>
 		<BACKGROUND>wpid-thumbnail-ee74f6fd8a150ce3cf50c7869376ef08-1050x688.jpg</BACKGROUND>
 		<TITLE>Aptitude Quiz</TITLE>
 		<TAGLINE></TAGLINE>
@@ -1559,7 +1559,7 @@ class="phone"&gt;E-mail:191ashish@gmail.com&lt;/span&gt;
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
 
-</DESCRIPTION>	
+</DESCRIPTION>
 		<RULES>The Quiz will consist of three rounds:- &lt;/br&gt;
 1.	Qualifying Round- Each team would be given a set of question paper containing multiple choice objective type questions based on aptitude. This round will be pen paper based round . 15 teams will qualify for the next round. &lt;/br&gt;
 Time: 45 minutes &lt;/br&gt;
@@ -1573,7 +1573,7 @@ Time: 2 hr &lt;/br&gt;
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/enigma.pdf' target='_blank'&gt;Enigma Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
@@ -1595,13 +1595,13 @@ class="phone"&gt;Phone:+91-9977192412 &lt;/span&gt;&lt;/br&gt;
 class="phone"&gt;E-mail:hpal.261994@gmail.com &lt;/span&gt;
                                                  &lt;/p&gt;
                                                     &lt;/br&gt;
-													
+
             </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
 
-<EVENT>	
-		<ID>26</ID>	
+<EVENT>
+		<ID>26</ID>
 		<BACKGROUND>FuckingNoobs.jpg</BACKGROUND>
 		<TITLE>Anime Mania</TITLE>
 		<TAGLINE></TAGLINE>
@@ -1611,7 +1611,7 @@ Events like anime trivia, guess the character ad show, anime riddles and many ot
 <!--&lt;b&gt;&lt;/br&gt;&lt;/br&gt;&lt;li&gt;Prize Money : Rs.&lt;/li&gt;&lt;/b&gt;-->
 
 
-</DESCRIPTION>	
+</DESCRIPTION>
 		<RULES>The Quiz will consist of three rounds:- &lt;/br&gt;
 1.	Qualifying Round- Each team would be given a set of question paper containing multiple choice objective type questions. This round will be pen paper based round . 15 teams will qualify for the next round. &lt;/br&gt;
 Time: 45 minutes &lt;/br&gt;
@@ -1625,7 +1625,7 @@ Time: 2 hr &lt;/br&gt;
 
 		<TIMELINE>
 
-&lt; Coming Soon /&gt; 
+&lt; Coming Soon /&gt;
 
 </TIMELINE>
 		<DOWNLOADS>&lt;li&gt;&lt;a href='downloads/enigma.pdf' target='_blank'&gt;Enigma Details&lt;/a&gt;&lt;/li&gt;</DOWNLOADS>
@@ -1638,11 +1638,11 @@ class="phone"&gt;Phone:+91-7748933480&lt;/span&gt;&lt;/br&gt;
 class="phone"&gt;E-mail:siddant.srivastava@gmail.com&lt;/span&gt;
                                                     &lt;/p&gt;
                                                     &lt;/br&gt;
-													
+
             </CONTACTS>
 		<UPDATES>To be uploaded soon</UPDATES>
 	</EVENT>
 
 
-	
+
 	</EVENTLIST>
