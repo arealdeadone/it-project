@@ -130,7 +130,7 @@
 	<![endif]-->
 	<script type="text/javascript">
 
-
+		
 
 		$(document).ready(function(){
 			$("html").niceScroll();
@@ -153,11 +153,11 @@
 	src:url(cuyabrabold.otf);
 }
     	</style>
-	<script type="text/javascript">
+	<script type="text/javascript">	
 		$(document).ready(function(){
 			$('#innerLoading .me').sprite({fps: 12, no_of_frames: 4}).spState(1);
 			var game = new Game();
-		});
+		});	
 
 
 		function startGame() {
@@ -208,7 +208,7 @@
 				if($user->isLoggedIn())
 				{
 					echo '<li><a href="#logout">Logout</a></li>';
-					echo '<li><a href="#login"> ||'.$user->data()->name." ||</a></li>";
+					echo '<li><a href="#login"> || Welcome '.$user->data()->name." ||</a></li>";
 				}
 				else
 					echo '<li><a href="#login">Login/Register</a></li>';
@@ -235,7 +235,7 @@
 					success: function(data){
 
 						try{
-
+							
 							//alert("x");
 							console.log(data);
 							var data=JSON.parse(data);
@@ -285,13 +285,40 @@
 			}
 		?>
 		<!-- Add Fb like and G+ +1 button after acquiring the API
-		<div class="fb-like" data-href="http://danielsternlicht.com/" data-send="false" data-layout="box_count" data-width="50" data-show-faces="false" data-font="lucida grande"></div>
+		<div class="fb-like" data-href="http://danielsternlicht.com/" data-send="false" data-layout="box_count" data-width="50" dat
+		a-show-faces="false" data-font="lucida grande"></div>
 		<a href="https://twitter.com/share" data-url="http://danielsternlicht.com" data-count="vertical" data-via="dsternlicht" class="twitter-share-button">Tweet</a>
 		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="../platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 		<div class="g-plusone" data-size="tall" data-href="http://danielsternlicht.com"></div>-->
 	</div>
+	<div id="guestLecture">
+		<br/>
+		<center><p style="font-family: newbold;"><u>GUEST LECTURE</u></p></center>
+		<img id="guestimage" style="float:left;height:70%;width:30%;padding-left: 3%;border-radius: 50%;">
+		<center><p id="guestname" style="font-family: newbold;"></p></center>
+		<p id="guestdata" style="font-family: newbold;">
+		</p>
+	</div>
+	<script>
+		$(document).ready(function(){
+		setInterval(function(){
+			$("#guestimage").attr("src","images/guest1.jpg");
+			$("#guestname").text("Vidya Nathampalli");
+			$("#guestdata").text("Vidya has worked on business strategy, organizational design, building the CS research ecosystem, initiated policy discussions and identify new market opportunities.She has managed PR and communication for companies.Responsible for all External Outreach and Relations with Academia worldwide, Industry and the Indian Government for Microsoft Research IndiaContributor to key dialogues and initiatives at the Indian National level in the areas of quality enhancement in Higher Education and low-cost wireless infrastructure (TV white spaces)Business strategy and image consultant for several multinational IT companies during their launch and settlement in India.Vidya’s core professional experience spans across business strategy, strategic partnerships, business operations, program management, higher education management, new initiatives to deployment of solutions, PR and marketing, people management, operations management, coaching and counseling.");
 
-
+			setTimeout(function(){
+				$("#guestimage").attr("src","images/guest2.jpg");
+				$("#guestname").text("Awadesh singh");
+			$("#guestdata").text("He is an officer of Indian Revenue Service (Customs and Central Excise) of 1990 batch and presently posted in Chennai in the rank of Commissioner. He have almost 25 years of experience in the government in the various department of indirect taxation.He is an avid reader and writer. He enjoys teaching and interacting with young generation. He answers several questions on Quora.com regularly where he is one of the Most Popular Writer.His answers are views by more than a million users every month.He was the Course Director in National Academy of Customs, Excise and Narcotics (NACEN) Faridabad for the 2008 and 2009 batches of IRS Probationers. He used to take maximum number of classes for them and he has received the best feedback from the probationers. Besides the taxation, he has great interest in teaching the soft-skill courses like communication skill, leadership, decision-making and life-skills to the young generation. He has authored two books(1)	Practising Spiritual Intelligence (2013)(2) The Secret Red Book of Leadership (2015). ");
+			},5000);
+			setTimeout(function(){
+				$("#guestimage").attr("src","images/guest3.jpg");
+				$("#guestname").text("Rahul kala");
+			$("#guestdata").text("Rahul Kala received the B.Tech. and M.Tech. degrees in Information Technology from the Indian Institute of Information Technology and Management, Gwalior, India in 2010. He received his Ph.D. degree in cybernetics from the University of Reading, UK in 2013. He is currently working as an Assistant Professor in the Indian Institute of Information Technology, Allahabad, India in the Robotics and Artificial Intelligence Laboratory.   He is the author of three books and over 75 papers. His recent book on robotic planning is entitled Intelligent Planning for Mobile Robotics: Algorithmic Approaches (IGI-Global Publishers, 2013). He is an active reviewer of leading journals of the domain. He is a recipient of the Best PhD dissertation award from the IEEE Intelligent Transportation Systems Society; scholarship under the Commonwealth Scholarship and Fellowship Program from the UK Government; the Lord of the Code Scholarship from RedHat and the Indian Institute of Technology Bombay; and the GATE scholarship from the Ministry of Human Resource Development, Government of India. ");
+			},10000);
+		},15000);
+	});
+	</script>
 	<div id="wrapper">
 
 
@@ -322,10 +349,10 @@
 		</div>
 		<div id="leftFence"></div>
 		<div id="rightFence"></div>
-
+		
 		<!-- Player -->
 		<div id='player'></div>
-
+		
 		<!-- Stop Station 1 -->
 		<div id="aboutRoad" class="road side">
 
@@ -415,31 +442,30 @@
 					<h2 style="text-align: center;">...Workshops...</h2>
 						<div><!-- <br><br><center style="font-size:150%;">Coming Soon....</center> -->
 							<section class="left" style="font-family: newbold;font-size:150%">
-
+								
 
 								<h4 class="">Bluetooth Robotics</h4>
 								<div class="">
-								Bluetooth Robotics Workshop mainly focuses on the students eager to learn Robotics from Basic. HC-05 / HC-06 based Bluetooth Controlled Robot works in heeding with the commands sent from Android based Smart Phone using a Developed Android Application and Bluetooth Technology. This workshop helps participants to understand the designing concepts and use of microcontrollers, serial communication and microcontroller programming in Embedded 'C' language.
-								The duration of this workshop will be two consecutive days, with eight hours session each day in a total of sixteen hours, properly divided into theory and hand on practical sessions. At the end of this workshop, a competition will be organized among the participating students where each participating student will get Certificate of Participation and the Winners will get Certificate of Merit <br>Registration fee is Rs. 1000/-
-								<!-- <a href="#">Read more</a> -->
+								Bluetooth Robotics Workshop mainly focuses on the students eager to learn Robotics from Basic. HC-05 / HC-06 based Bluetooth Controlled Robot works in heeding with the commands sent from Android based Smart Phone using a Developed Android Application and Bluetooth Technology.At the end of this workshop, a competition will be organized among the participating students where each participating student will get Certificate of Participation and the Winners will get Certificate of Merit <br>Registration fee is Rs. 1000/-<br>
+								<a href="Info/bluetooth.html" target="_blank">Read more</a>
 								</div>
 								<br/><br/>
 								<h4 class="">Network & and cyber security</h4>
 								<div class="">
-								BrainTech Network & Cyber Security Championship is an Azure Skynet Solutions Pvt. Ltd. initiative that focuses on guiding students in their quest for a prime level of technical education. It offers high caliber training programs while enrolling participants under 2 levels of evaluation process. Under this stratagem, participants are assessed on theoretical & practical grounds & so are titled as Championship Holders. A scholarship worth Rs. 1 Lac is awarded at the Grand Finale of this program.  <br>Registration fee is Rs.900/-
-								<!-- <a href="#">Read more</a> -->
+								BrainTech Network & Cyber Security Championship is an Azure Skynet Solutions Pvt. Ltd. initiative that focuses on guiding students in their quest for a prime level of technical education. It offers high caliber training programs while enrolling participants under 2 levels of evaluation process.A scholarship worth Rs. 1 Lac is awarded at the Grand Finale of this program.  <br>Registration fee is Rs.900/-<br>
+								<a href="Info/network.html" target="_blank">Read more</a>
 								</div>
 								<br/><br/>
 								<!-- <h4 class="">How to built your own website</h4>
 								<div class="">
 								"You're committing to search for one of the rare ideas that generates rapid growth" - Paul Graham. An Entrepreneur starting a startup is committing to solve a harder type of problem than ordinary businesses do. For all those budding Entrepreneur we present our workshop on 'How To Build your own Startup'.Registration fee is Rs.600/- The workshop will be conducted by an eminent entrepreneur Ronak Dhoot - CTO & Co-founder Geek Shastra.
 								<!-- <a href="#">Read more</a> -->
-								<!-- </div> -->
+								<!-- </div> --> 
 							</section>
 							<section class="right">
 								<center>
 								<br/><br/><br/>
-								<img src="images/blue.jpg" class="ws1"><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+								<img src="images/blue.jpg" class="ws1"><br/><br/><br/><br/><br/><br/><br/><br/>
 								<img src="images/cyber.jpg" class="ws2"><br/><br/><br/>
 								<!-- <img src="images/ws3.jpg" class="ws3"> -->
 								</center>
@@ -495,29 +521,15 @@
                 <section>
                     <center>For any queries regarding INFOTSAV 2016, contact us at:-<br><br></center>
 						<center>
-														<table>
                             <form method="post" class="contactForm" action="http://www.aasf.in/mailer/mailer.php">
-															<tr>
-															<td>Name :</td><td><input type="text" name="conname"></td>
-															</tr>
-															<tr>
-                                <td>E-mail : </td><td><input type="email" name="conemail"></td>
-															</tr>
-															<tr>
-                                <td>Contact:</td><td><input type="text" name="feedcontact"></td>
-															</tr>
-															<tr></tr>
-															<tr>
-                                <td>Queries:</td><td><textarea name="queries" rows="6" cols="40" ></textarea></td>
-															</tr>
-															<tr>
-								<td colspan="2"><center><button style="height:30px;width: 90px;" class="btn btn-success" name="submit" type="submit">Submit</button></center></td>
-							</tr>
-							<tr>
-                  <td colspan="2">          	<center><a href="contacts/newcontacts.html" target="_blank"><strong>OUR TEAM</a></center></td>
-									</tr>
+                                Name : &nbsp;&nbsp;<input type="text" name="conname"><br/>
+                                E-mail : &nbsp;&nbsp;<input type="email" name="conemail"><br/>
+                                Contact:&nbsp;&nbsp;<input type="text" name="feedcontact"><br/><br/>
+                                Queries: <textarea name="queries" rows="6" cols="40" ></textarea><br><br>
+								<center><button style="height:30px;width: 90px;" class="btn btn-success" name="submit" type="submit">Submit</button></center>
+								<br>
+                            	<center><a href="contacts/newcontacts.html" target="_blank"><strong>OUR TEAM</a></center>
 							</form>
-						</table>
 						</center>
                 </section>
             </div>
@@ -537,31 +549,31 @@
 					<section>
 						<table style="font-family: newbold;font-size:80%;">
 							<tr style="font-family: newbold;">
-								<td><b><u>Accommodation:-</u></b></td>
-
+								<td><b><u>Accommodation</u></b></td>
+								<td style="width: 5%;">:-</td>
 								<td>Hostel: Rs. 200 for 3 days <br>
 								International Visitors Hostel: Rs. 250 per day for 2 person + Rs. 100 per day per extra person *<br>
 								MDP: Rs. 750 per day for two person + Rs. 250 per day per extra person*</td>
-
+								
 							</tr>
 
 
 							<tr style="font-family: newbold;">
-							 	<td><b><u>Fooding:-</u></b></td>
+							 	<td><b><u>Fooding:-</u></b></td><td></td>
 								<td>Rs. 100 per person per day<br>
 								Rs. 200 per person per day (only lunch and dinner)
 								</td>
 							</tr>
 							<tr style="font-family: newbold;">
 							 	<td><b><u>Security:- </u></b>
-								</td>
+								</td><td></td>
 								<td>For hostel and visitor hostel: Rs. 100<br>
-								For MDP : Rs. 300
+								For MDP : Rs. 300 
 								</td>
 							</tr>
 							<tr style="font-family: newbold;">
 							 	<td><b><u> Facilities:-</u> </b>
-								</td>
+								</td><td></td>
 								<td>Free wifi facilities<br>
 								Free transportation<br>
 								Free pass for the DJ Night
@@ -581,7 +593,7 @@
 		<div id="leftGrass" class="grass"></div>
 
 		<!-- End Cave -->
-		<div id="endSea" class="sea"></div>
+		<div id="endSea" class="sea"></div>		
 		<div id="endBridge" class="bridge"></div>
 		<!-- <div id="endCaveHoleGlow"></div> -->
 		<div id="boat" class="isMoored">
@@ -612,15 +624,15 @@
 		<div class="flowers r13"></div>
 		<div class="flowers r14"></div>
 		<div class="flowers r15"></div>
-
-
+		
+		
 	</div>
-
+	
 	<div id="howToPlay">
 		<div class="lightbox">
 			<div class="inner howtoplay">
 				<h2>How To Play?</h2>
-				<article style="font-size:200%;">
+				<article style="font-size:200%;">					
 					<div id="htpArrows" class="box clearfix">
 						<div class="icon"></div>
 						<p>Move by using the keyboard arrows. To move the character faster hold down the Shift key.To play the game please login</p>
@@ -636,14 +648,14 @@
 					<div id="htpEsc" class="box clearfix">
 						<div class="icon"></div>
 						<p>Press the "Esc" key to leave buildings and close the notifications bar.
-
+						  
 						</p>
 					</div>
 					<div id="htpShare" class="box clearfix">
 						<div class="icon"></div>
 						<p>Participate In Infotsav and win prize worth  Rs.400,000</p>
 					</div>
-      	</article>
+      	</article>				
 			</div>
 		</div>
 	</div>
