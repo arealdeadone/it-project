@@ -294,29 +294,30 @@
 	<div id="guestLecture">
 		<br/>
 		<center><p style="font-family: newbold;"><u>GUEST LECTURE</u></p></center>
-		<img id="guestimage" style="float:left;height:70%;width:30%;padding-left: 3%;border-radius: 50%;">
-		<center><p id="guestname" style="font-family: newbold;"></p></center>
+		<img id="guestimage" style="float:left;height:60%;width:25%;padding-left: 3%;border-radius: 50%;">
+		<center><b><p id="guestname" style="font-family: newbold;font-weight: bold;font-size: 150%;"></p></b></center><br><br>
+		<div style="margin-left:27%; ">
 		<p id="guestdata" style="font-family: newbold;">
-		</p>
+		</p></div>
 	</div>
 	<script>
 		$(document).ready(function(){
 		setInterval(function(){
 			$("#guestimage").attr("src","images/guest1.jpg");
 			$("#guestname").text("Vidya Nathampalli");
-			$("#guestdata").text("Vidya has worked on business strategy, organizational design, building the CS research ecosystem, initiated policy discussions and identify new market opportunities.She has managed PR and communication for companies.Responsible for all External Outreach and Relations with Academia worldwide, Industry and the Indian Government for Microsoft Research IndiaContributor to key dialogues and initiatives at the Indian National level in the areas of quality enhancement in Higher Education and low-cost wireless infrastructure (TV white spaces)Business strategy and image consultant for several multinational IT companies during their launch and settlement in India.Vidya’s core professional experience spans across business strategy, strategic partnerships, business operations, program management, higher education management, new initiatives to deployment of solutions, PR and marketing, people management, operations management, coaching and counseling.");
+			$("#guestdata").text("Vidya has worked on business strategy, organizational design, building the CS research ecosystem, initiated policy discussions and identify new market opportunities.She has managed PR and communication for companies.Responsible for all External Outreach and Relations with Academia worldwide, Industry and the Indian Government for Microsoft Research IndiaContributor to key dialogues and initiatives at the Indian National level in the areas of quality enhancement in Higher Education and low-cost wireless infrastructure Business strategy.");
 
 			setTimeout(function(){
 				$("#guestimage").attr("src","images/guest2.jpg");
 				$("#guestname").text("Awadesh singh");
-			$("#guestdata").text("He is an officer of Indian Revenue Service (Customs and Central Excise) of 1990 batch and presently posted in Chennai in the rank of Commissioner. He have almost 25 years of experience in the government in the various department of indirect taxation.He is an avid reader and writer. He enjoys teaching and interacting with young generation. He answers several questions on Quora.com regularly where he is one of the Most Popular Writer.His answers are views by more than a million users every month.He was the Course Director in National Academy of Customs, Excise and Narcotics (NACEN) Faridabad for the 2008 and 2009 batches of IRS Probationers. He used to take maximum number of classes for them and he has received the best feedback from the probationers. Besides the taxation, he has great interest in teaching the soft-skill courses like communication skill, leadership, decision-making and life-skills to the young generation. He has authored two books(1)	Practising Spiritual Intelligence (2013)(2) The Secret Red Book of Leadership (2015). ");
-			},5000);
+			$("#guestdata").text("He is an officer of Indian Revenue Service (Customs and Central Excise) of 1990 batch and presently posted in Chennai in the rank of Commissioner. He have almost 25 years of experience in the government in the various department of indirect taxation.He is an avid reader and writer. He enjoys teaching and interacting with young generation.He was the Course Director in National Academy of Customs, Excise and Narcotics Faridabad for the 2008 and 2009 batches of IRS Probationers.");
+			},8000);
 			setTimeout(function(){
 				$("#guestimage").attr("src","images/guest3.jpg");
 				$("#guestname").text("Rahul kala");
-			$("#guestdata").text("Rahul Kala received the B.Tech. and M.Tech. degrees in Information Technology from the Indian Institute of Information Technology and Management, Gwalior, India in 2010. He received his Ph.D. degree in cybernetics from the University of Reading, UK in 2013. He is currently working as an Assistant Professor in the Indian Institute of Information Technology, Allahabad, India in the Robotics and Artificial Intelligence Laboratory.   He is the author of three books and over 75 papers. His recent book on robotic planning is entitled Intelligent Planning for Mobile Robotics: Algorithmic Approaches (IGI-Global Publishers, 2013). He is an active reviewer of leading journals of the domain. He is a recipient of the Best PhD dissertation award from the IEEE Intelligent Transportation Systems Society; scholarship under the Commonwealth Scholarship and Fellowship Program from the UK Government; the Lord of the Code Scholarship from RedHat and the Indian Institute of Technology Bombay; and the GATE scholarship from the Ministry of Human Resource Development, Government of India. ");
-			},10000);
-		},15000);
+			$("#guestdata").text("He is currently working as an Assistant Professor in the Indian Institute of Information Technology, Allahabad, India in the Robotics and Artificial Intelligence Laboratory.   He is the author of three books and over 75 papers. His recent book on robotic planning is entitled Intelligent Planning for Mobile Robotics: Algorithmic Approaches (IGI-Global Publishers, 2013). He is an active reviewer of leading journals of the domain.");
+			},16000);
+		},24000);
 	});
 	</script>
 	<div id="wrapper">

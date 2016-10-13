@@ -1,7 +1,7 @@
 <?php
 $i=(int)$_GET['id'];
 $jk = $i;
-$db = new PDO('mysql:host=localhost;dbname=infotsav','root','Iiahtth');
+$db = new PDO('mysql:host=localhost;dbname=infotsav','root','');
 $s4 = "SELECT * FROM eventdetails WHERE id= ?";
 $qu = $db->prepare($s4);
 $qu->bindParam(1,$jk);

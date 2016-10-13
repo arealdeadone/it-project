@@ -1687,7 +1687,8 @@ nav li.last a:hover {
 	z-index: 700;
 	right: 0;
 	top: 50%;
-	width: 70px;
+	width: 140px;
+	height: 100px;
 	padding: 10px 5px;
 	background: #f7f7f7;
 	box-shadow: -1px 2px 3pc rgba(0,0,0,0.4);
@@ -1695,11 +1696,12 @@ nav li.last a:hover {
 	text-align: center;
 	border-radius: 5px 0 0 5px;
 	background: #f7f7f7;
-	-webkit-transition: width 2s height 2s;
-	transition: width 2s height 2s;
+	-webkit-transition: width 2s;
+	transition: width 1s;
+	overflow: hidden;
 }
 #guestLecture:hover {
-	width:50%;
+	width:36%;
 	height:45%;
 	font-size: 120%;
 }
