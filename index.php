@@ -130,7 +130,7 @@
 	<![endif]-->
 	<script type="text/javascript">
 
-		
+
 
 		$(document).ready(function(){
 			$("html").niceScroll();
@@ -153,11 +153,11 @@
 	src:url(cuyabrabold.otf);
 }
     	</style>
-	<script type="text/javascript">	
+	<script type="text/javascript">
 		$(document).ready(function(){
 			$('#innerLoading .me').sprite({fps: 12, no_of_frames: 4}).spState(1);
 			var game = new Game();
-		});	
+		});
 
 
 		function startGame() {
@@ -235,7 +235,7 @@
 					success: function(data){
 
 						try{
-							
+
 							//alert("x");
 							console.log(data);
 							var data=JSON.parse(data);
@@ -280,6 +280,9 @@
 				<p id="pos"></p>
 				<p id="score"></p>
 			</div>
+				</a>
+				<a href="payments.php">
+					<h2>PAY HERE</h2>
 				</a>
 		<?php
 			}
@@ -350,10 +353,10 @@
 		</div>
 		<div id="leftFence"></div>
 		<div id="rightFence"></div>
-		
+
 		<!-- Player -->
 		<div id='player'></div>
-		
+
 		<!-- Stop Station 1 -->
 		<div id="aboutRoad" class="road side">
 
@@ -443,7 +446,7 @@
 					<h2 style="text-align: center;">...Workshops...</h2>
 						<div><!-- <br><br><center style="font-size:150%;">Coming Soon....</center> -->
 							<section class="left" style="font-family: newbold;font-size:150%">
-								
+
 
 								<h4 class="">Bluetooth Robotics</h4>
 								<div class="">
@@ -461,7 +464,7 @@
 								<div class="">
 								"You're committing to search for one of the rare ideas that generates rapid growth" - Paul Graham. An Entrepreneur starting a startup is committing to solve a harder type of problem than ordinary businesses do. For all those budding Entrepreneur we present our workshop on 'How To Build your own Startup'.Registration fee is Rs.600/- The workshop will be conducted by an eminent entrepreneur Ronak Dhoot - CTO & Co-founder Geek Shastra.
 								<!-- <a href="#">Read more</a> -->
-								<!-- </div> --> 
+								<!-- </div> -->
 							</section>
 							<section class="right">
 								<center>
@@ -555,7 +558,7 @@
 								<td>Hostel: Rs. 200 for 3 days <br>
 								International Visitors Hostel: Rs. 250 per day for 2 person + Rs. 100 per day per extra person *<br>
 								MDP: Rs. 750 per day for two person + Rs. 250 per day per extra person*</td>
-								
+
 							</tr>
 
 
@@ -569,7 +572,7 @@
 							 	<td><b><u>Security:- </u></b>
 								</td><td></td>
 								<td>For hostel and visitor hostel: Rs. 100<br>
-								For MDP : Rs. 300 
+								For MDP : Rs. 300
 								</td>
 							</tr>
 							<tr style="font-family: newbold;">
@@ -594,7 +597,7 @@
 		<div id="leftGrass" class="grass"></div>
 
 		<!-- End Cave -->
-		<div id="endSea" class="sea"></div>		
+		<div id="endSea" class="sea"></div>
 		<div id="endBridge" class="bridge"></div>
 		<!-- <div id="endCaveHoleGlow"></div> -->
 		<div id="boat" class="isMoored">
@@ -625,15 +628,15 @@
 		<div class="flowers r13"></div>
 		<div class="flowers r14"></div>
 		<div class="flowers r15"></div>
-		
-		
+
+
 	</div>
-	
+
 	<div id="howToPlay">
 		<div class="lightbox">
 			<div class="inner howtoplay">
 				<h2>How To Play?</h2>
-				<article style="font-size:200%;">					
+				<article style="font-size:200%;">
 					<div id="htpArrows" class="box clearfix">
 						<div class="icon"></div>
 						<p>Move by using the keyboard arrows. To move the character faster hold down the Shift key.To play the game please login</p>
@@ -649,14 +652,14 @@
 					<div id="htpEsc" class="box clearfix">
 						<div class="icon"></div>
 						<p>Press the "Esc" key to leave buildings and close the notifications bar.
-						  
+
 						</p>
 					</div>
 					<div id="htpShare" class="box clearfix">
 						<div class="icon"></div>
 						<p>Participate In Infotsav and win prize worth  Rs.400,000</p>
 					</div>
-      	</article>				
+      	</article>
 			</div>
 		</div>
 	</div>

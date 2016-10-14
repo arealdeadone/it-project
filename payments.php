@@ -6,12 +6,12 @@
         Redirect::to('index.php');
     if(Input::exists())
     {
-        $api = new Instamojo\Instamojo("e3e5d9f63cc44547c6d015fe23c6f23e", "0e32dd9f2e7abec52d0f34062c47b1cc");
+        $api = new Instamojo\Instamojo("442b0a20b5662ccb3d5a74eba0df024f", "1655b3b9c66b78fec4501ccc1e297fc1");
         $cost = (mysql_real_escape_string($_POST['cost']));
         $purpose = "";
         switch ($cost) {
             case 250:
-                $purpose = "Infotsav Registration (Individual)";
+                $purpose = "Registration (Individual)";
                 break;
             case 300:
                 $purpose = " Robotics - 2 Member Team ";
