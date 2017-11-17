@@ -200,7 +200,7 @@
 			<li><a class="current" href="#startCave">Home</a></li>
 			<li><a href="#aboutHouse">Events</a></li>
 			<li><a href="#servicesHouse">Workshops</a></li>
-			<li><a href="#portfolioHouse">Gallery</a></li>
+			<li><a href="#portfolioHouse">Lectures</a></li>
 			<li><a href="#sponsorsHouse">Sponsors</a></li>
 			<li><a href="#techHouse">Contact Us</a></li>
 			<li><a href="#abinfotsavHouse">Accomodation</a></li>
@@ -282,7 +282,7 @@
 			</div>
 				</a>
 				<a href="payments.php">
-					<h2>PAY HERE</h2>
+					<h2 style="margin-top:3%;font-family: newbold ">PAY HERE</h2>
 				</a>
 		<?php
 			}
@@ -294,16 +294,16 @@
 		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="../platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 		<div class="g-plusone" data-size="tall" data-href="http://danielsternlicht.com"></div>-->
 	</div>
-	<div id="guestLecture">
-		<br/>
-		<center><p style="font-family: newbold;"><u>GUEST LECTURE</u></p></center>
-		<img id="guestimage" style="float:left;height:60%;width:25%;padding-left: 3%;border-radius: 50%;">
-		<center><b><p id="guestname" style="font-family: newbold;font-weight: bold;font-size: 150%;"></p></b></center><br><br>
-		<div style="margin-left:27%; ">
-		<p id="guestdata" style="font-family: newbold;">
-		</p></div>
-	</div>
-	<script>
+	<!-- <div id="guestLecture" style="background-color: grey"> -->
+		<!-- <br/> -->
+		<!-- <center><p style="font-family: newbold;"><u>GUEST LECTURE</u></p></center> -->
+		<!-- <img id="guestimage" style="float:left;height:60%;width:25%;padding-left: 3%;border-radius: 50%;"> -->
+		<!-- <center><b><p id="guestname" style="font-family: newbold;font-weight: bold;font-size: 150%;"></p></b></center><br><br> -->
+		<!-- <div style="margin-left:27%; "> -->
+		<!-- <center><p id="guestdata" style="font-family: newbold;"> -->
+		<!-- </p></center></div> -->
+	<!-- </div> -->
+	<!-- <script>
 		$(document).ready(function(){
 		setInterval(function(){
 			$("#guestimage").attr("src","images/guest1.jpg");
@@ -322,7 +322,7 @@
 			},16000);
 		},24000);
 	});
-	</script>
+	</script> -->
 	<div id="wrapper">
 
 
@@ -488,7 +488,32 @@
 		<div id="portfolioHouse" class="house">
 			<div class="door"></div>
 			<div class="lightbox">
-				<iframe src="imagegallery/imagegallery.html" height="90%" width="100%"></iframe>
+				<!-- <iframe src="imagegallery/imagegallery.html" height="90%" width="100%"></iframe> -->
+				<div class="inner services">
+
+					<h2 style="text-align: center;">Guest Lectures</h2>
+						<div><!-- <br><br><center style="font-size:150%;">Coming Soon....</center> -->
+							<section class="left" style="font-family: newbold;font-size:150%">
+
+
+								<h4 class="">Vidya Nathampalli</h4>
+								<div class="">
+								Vidya has worked on business strategy, organizational design, building the CS research ecosystem, initiated policy discussions and identify new market opportunities.She has managed PR and communication for companies.Responsible for all External Outreach and Relations with Academia worldwide, Industry and the Indian Government for Microsoft Research IndiaContributor to key dialogues and initiatives at the Indian National level in the areas of quality enhancement in Higher Education and low-cost wireless infrastructure Business strategy.
+								<!-- <a href="Info/bluetooth.html" target="_blank">Read more</a> -->
+								</div>
+								<br/><br/>
+								<h4 class="">Awadesh singh</h4>
+								<div class="">
+								He is an officer of Indian Revenue Service (Customs and Central Excise) of 1990 batch and presently posted in Chennai in the rank of Commissioner. He have almost 25 years of experience in the government in the various department of indirect taxation.He is an avid reader and writer. He enjoys teaching and interacting with young generation.He was the Course Director in National Academy of Customs, Excise and Narcotics Faridabad for the 2008 and 2009 batches of IRS Probationers.
+								</div>
+								<br/><br/>
+								<h4 class="">Rahul kala</h4>
+								<div class="">
+								He is currently working as an Assistant Professor in the Indian Institute of Information Technology, Allahabad, India in the Robotics and Artificial Intelligence Laboratory.   He is the author of three books and over 75 papers. His recent book on robotic planning is entitled Intelligent Planning for Mobile Robotics: Algorithmic Approaches (IGI-Global Publishers, 2013). He is an active reviewer of leading journals of the domain.			</div>
+							</section>
+						</div>
+					<div class="clear"></div>
+				</div>
 			</div>
 		</div>
 		<div id="portfolioSign" class="sign"><span>Image Gallery</span></div>

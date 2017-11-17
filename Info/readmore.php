@@ -1,4 +1,5 @@
 <?php
+session_start();
 $i=(int)$_GET['id'];
 $jk = $i;
 $db = new PDO('mysql:host=localhost;dbname=infotsav','root','');
@@ -115,7 +116,16 @@ $row = $qu->fetch(PDO::FETCH_ASSOC);
 
     </div>
   <?php if ($EVENTLIST->EVENT[$i]->TITLE != "Techathlon")  {?>
-    <center><a href="#openModal"><button style="border: 1px solid white ; font-size: 26px; font-family: test;">Register</button></a></center>
+    <center>
+        <?php 
+                      if(isset($_SESSION['user']) && !empty($_SESSION['user']))
+                        echo '<a href="#openModal"><button style="border: 1px solid white ; font-size: 26px; font-family: test;">Register</button></a>';
+                      else
+                        echo '<a href="#"><button style="border: 1px solid white ; font-size: 26px; font-family: test;">Please Log In To Register.</button></a>';
+                   ?>
+    <!-- <button style="border: 1px solid white ; font-size: 26px; font-family: test;">Register</button> -->
+    </center>
+    <!-- <button style="border: 1px solid white ; font-size: 26px; font-family: test;">Register</button></a></center> -->
 
     <div id="openModal" class="modalDialog">
       <div> <a href="#close" title="Close" class="close" style="color: blue;background-color: white;font-size: 200%;">X</a>
@@ -167,7 +177,7 @@ $row = $qu->fetch(PDO::FETCH_ASSOC);
 <!--            </div>-->
               <div class="form-group" style="margin-top:40px;margin-left:65px;">
                 <div style="padding-left: 20%;">
-                  <button type="submit" class="btn btn-primary" id="button" >Register</button>
+                   <button type="submit" class="btn btn-primary" id="button" >Register</button>
                 </div>
               </div>
           </form>
